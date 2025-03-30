@@ -1,0 +1,1000 @@
+﻿id,Age,Gender,Annual Income,Marital Status,Number of Dependents,Education Level,Occupation,Health Score,Location,Policy Type,Previous Claims,Vehicle Age,Credit Score,Insurance Duration,Policy Start Date,Customer Feedback,Smoking Status,Exercise Frequency,Property Type,Premium Amount
+0,19,Female,10049,Married,1,Bachelor's,Self-Employed,22.59876067,Urban,Premium,2,17,372,5,21:39.1,Poor,No,Weekly,House,2869
+1,39,Female,31678,Divorced,3,Master's,,15.56973099,Rural,Comprehensive,1,12,694,2,21:39.1,Average,Yes,Monthly,House,1483
+2,23,Male,25602,Divorced,3,High School,Self-Employed,47.17754929,Suburban,Premium,1,14,,3,21:39.2,Good,Yes,Weekly,House,567
+3,21,Male,141855,Married,2,Bachelor's,,10.93814416,Rural,Basic,1,0,367,1,21:39.2,Poor,Yes,Daily,Apartment,765
+4,21,Male,39651,Single,1,Bachelor's,Self-Employed,20.37609363,Rural,Premium,0,8,598,4,21:39.3,Poor,Yes,Weekly,House,2022
+5,29,Male,45963,Married,1,Bachelor's,,33.05319768,Urban,Premium,2,4,614,5,21:39.2,Average,No,Weekly,House,3202
+6,41,Male,40336,Married,0,PhD,,,Rural,Basic,2,8,807,6,21:39.2,Poor,No,Weekly,House,439
+7,48,Female,127237,Divorced,2,High School,Employed,5.769783093,Suburban,Comprehensive,1,11,398,5,21:39.2,Average,No,Rarely,Condo,111
+8,21,Male,1733,Divorced,3,Bachelor's,,17.86955081,Urban,Premium,1,10,685,8,21:39.2,Average,No,Monthly,Condo,213
+9,44,Male,52447,Married,2,Master's,Employed,20.47371786,Urban,Comprehensive,1,9,635,3,21:39.1,Poor,No,Daily,Condo,64
+10,56,Female,8054,Married,1,Bachelor's,Unemployed,,Rural,Premium,1,8,431,8,21:39.1,Average,No,Monthly,Condo,857
+11,23,Male,30983,Single,3,Master's,,5.813128941,Urban,Premium,,6,597,8,21:39.2,Good,No,Rarely,Condo,1447
+12,25,Female,23706,Single,4,Master's,Employed,4.090538024,Urban,Comprehensive,2,19,,2,21:39.1,Poor,Yes,Weekly,Apartment,703
+13,44,Female,70893,Single,0,Bachelor's,,55.89632239,Suburban,Premium,0,3,511,6,21:39.1,Good,Yes,Weekly,House,1847
+14,40,Female,23897,Divorced,,High School,Self-Employed,29.08203616,Suburban,Basic,2,15,498,1,21:39.2,Good,No,Rarely,Condo,30
+15,18,Male,6076,Married,2,High School,Employed,7.442964016,Urban,Premium,1,12,584,5,21:39.2,Good,Yes,Monthly,Apartment,849
+16,59,Female,28266,Divorced,2,PhD,Unemployed,21.67346054,Urban,Basic,0,16,,3,21:39.3,Average,Yes,Weekly,Condo,183
+17,34,Female,45907,Divorced,4,High School,Self-Employed,24.05963876,Suburban,Comprehensive,0,0,694,8,21:39.1,Poor,Yes,Daily,Condo,643
+18,18,Male,29071,Married,,Bachelor's,Employed,20.83897654,Rural,Premium,1,5,,3,21:39.1,Poor,Yes,Rarely,Apartment,787
+19,40,Female,123751,Single,2,Master's,Self-Employed,24.95531648,Suburban,Premium,0,8,420,2,21:39.2,Good,Yes,Rarely,Condo,40
+20,39,Male,6837,Divorced,2,High School,Self-Employed,17.81445892,Urban,Premium,,7,595,2,21:39.3,Good,Yes,Daily,Apartment,1204
+21,44,Female,14042,Divorced,2,Master's,,4.551825118,Urban,Basic,,6,799,5,21:39.2,Good,Yes,Weekly,Apartment,2670
+22,22,Male,,Divorced,4,PhD,,25.58378995,Urban,Comprehensive,,5,773,5,21:39.3,Good,Yes,Monthly,House,202
+23,34,Female,32762,Divorced,1,Bachelor's,,21.96760938,Rural,Premium,0,10,798,1,21:39.1,Average,Yes,Monthly,Condo,3869
+24,46,Male,24708,Married,3,High School,Employed,26.34125918,Urban,Premium,,0,543,4,21:39.1,Average,No,Daily,House,1136
+25,19,Male,72482,Married,2,Bachelor's,Unemployed,27.2794157,Suburban,Premium,0,17,416,3,21:39.1,Good,Yes,Weekly,Condo,671
+26,49,Female,82584,Married,0,Bachelor's,Unemployed,23.86738828,Rural,Comprehensive,,10,425,9,21:39.1,Average,Yes,Weekly,Apartment,1010
+27,42,Male,35123,Married,2,Bachelor's,Self-Employed,31.3919072,Suburban,Premium,0,3,486,4,21:39.2,Good,Yes,Rarely,Condo,2680
+28,43,Male,1060,Married,,Master's,Self-Employed,41.37671629,Suburban,Premium,0,8,795,7,21:39.2,,Yes,Rarely,Condo,699
+29,64,Male,131038,Single,,PhD,Self-Employed,20.71707647,Rural,Premium,,14,495,1,21:39.2,Good,Yes,Monthly,House,2360
+30,52,Male,30350,Single,1,Bachelor's,Employed,21.49661355,Rural,Comprehensive,,18,449,1,21:39.2,Poor,No,Rarely,House,641
+31,37,Male,4534,Divorced,,Bachelor's,,26.38748092,Suburban,Premium,0,1,,1,21:39.1,Poor,No,Daily,House,165
+32,58,Male,1288,Divorced,4,Master's,Self-Employed,15.17162855,Urban,Basic,1,2,803,2,21:39.1,Good,No,Rarely,Apartment,3299
+33,40,Female,1190,Single,2,High School,Employed,47.85157218,Rural,Basic,,0,421,4,21:39.2,Good,No,Weekly,Condo,1128
+34,25,Female,40887,Single,3,Bachelor's,,17.28365129,Suburban,Premium,,5,695,2,21:39.1,Average,Yes,Monthly,Apartment,2152
+35,49,Female,12982,Single,4,PhD,,32.75161705,Suburban,Basic,1,1,713,4,21:39.1,Average,No,Rarely,Apartment,30
+36,41,Female,,Married,3,PhD,Self-Employed,14.00163003,Urban,Comprehensive,0,15,589,6,21:39.1,Average,No,Rarely,House,250
+37,50,Male,18313,Divorced,2,Master's,Employed,19.99646445,Suburban,Premium,0,5,,6,21:39.2,Good,Yes,Weekly,Condo,1586
+38,50,Female,57423,Single,1,Bachelor's,Self-Employed,14.14668412,Urban,Basic,,6,,3,21:39.1,Average,No,Daily,Condo,3890
+39,40,Female,2858,Divorced,0,High School,,38.57952271,Rural,Comprehensive,0,0,812,5,21:39.2,Poor,Yes,Daily,Condo,26
+40,59,Male,1717,Divorced,1,Bachelor's,Unemployed,23.90004874,Urban,Basic,0,9,382,6,21:39.2,Good,No,Weekly,House,1813
+41,46,Male,14053,Married,0,High School,Unemployed,18.56935672,Suburban,Comprehensive,3,14,469,5,21:39.2,Good,No,Daily,Condo,1211
+42,21,Male,9085,Married,0,PhD,Self-Employed,25.71928448,Urban,Comprehensive,1,10,,8,21:39.2,Poor,Yes,Weekly,Apartment,794
+43,35,Male,39717,Divorced,1,PhD,,7.263930529,Urban,Basic,0,10,530,2,21:39.1,Good,Yes,Daily,Apartment,551
+44,19,Female,10481,Divorced,4,Master's,,28.78354866,Rural,Premium,0,13,538,5,21:39.1,Poor,Yes,Weekly,Condo,1525
+45,61,Male,5095,,3,Master's,Employed,40.88612373,Suburban,Comprehensive,2,7,842,7,21:39.3,Poor,No,Weekly,House,23
+46,31,Female,27950,Married,2,PhD,,22.93686153,Urban,Basic,0,1,575,5,21:39.2,Poor,No,Weekly,House,1069
+47,54,Female,29076,Married,1,High School,Employed,36.83989237,Rural,Comprehensive,0,2,685,7,21:39.3,Average,Yes,Daily,Condo,1645
+48,34,Female,12221,Divorced,0,High School,Employed,37.82939869,Rural,Comprehensive,1,1,794,1,21:39.2,Average,Yes,Weekly,House,1486
+49,45,Male,11584,Married,4,Bachelor's,Self-Employed,29.1819,Urban,Basic,1,3,836,4,21:39.3,Good,No,Daily,Apartment,1309
+50,30,Female,8599,Single,1,PhD,Employed,28.74466755,Rural,Comprehensive,,18,784,7,21:39.2,Good,No,Rarely,House,882
+51,59,Male,523,Divorced,1,PhD,,,Urban,Premium,1,9,439,9,21:39.2,Average,Yes,Weekly,Apartment,537
+52,33,Male,54962,Married,0,Master's,Employed,20.08451193,Urban,Premium,,9,381,9,21:39.2,Average,No,Daily,House,1358
+53,50,Female,4928,Divorced,1,PhD,Unemployed,17.88271237,Suburban,Comprehensive,,3,801,7,21:39.3,Good,Yes,Weekly,Apartment,2312
+54,43,Female,2361,Single,2,PhD,Employed,24.39805204,Suburban,Comprehensive,1,16,,6,21:39.2,Average,No,Daily,Condo,2093
+55,28,Male,2476,Married,3,Bachelor's,,19.81210976,Rural,Comprehensive,1,1,624,4,21:39.2,Average,No,Rarely,Apartment,1595
+56,52,Female,27128,Married,1,Master's,,35.09675696,Rural,Premium,3,0,439,2,21:39.2,Poor,Yes,Weekly,House,798
+57,58,Male,78986,Divorced,2,PhD,Self-Employed,22.69200921,Urban,Premium,,16,497,9,21:39.2,Good,No,Monthly,Apartment,78
+58,50,Female,35353,Divorced,1,Bachelor's,Employed,35.6191222,Suburban,Premium,,5,359,3,21:39.2,Average,Yes,Rarely,House,745
+59,62,Female,147020,Married,4,Bachelor's,Self-Employed,24.12174595,Urban,Comprehensive,,0,498,6,21:39.2,,No,Daily,Condo,1624
+60,56,Female,122824,Divorced,3,Master's,,41.9381699,Urban,Basic,1,6,662,1,21:39.1,,Yes,Weekly,Apartment,2932
+61,40,Female,11273,Divorced,3,High School,Employed,51.50653303,Rural,Comprehensive,,19,703,5,21:39.2,Average,Yes,Monthly,Condo,562
+62,49,Male,15865,Married,,PhD,Unemployed,36.15354852,Urban,Comprehensive,0,15,,5,21:39.2,Good,Yes,Rarely,House,368
+63,29,Female,2490,Married,,Master's,,50.63801698,Urban,Comprehensive,3,7,,2,21:39.2,Good,No,Monthly,Apartment,810
+64,48,Female,94904,Divorced,1,Bachelor's,Self-Employed,45.97921794,Urban,Comprehensive,0,3,426,1,21:39.2,Average,No,Monthly,Apartment,861
+65,54,Male,6841,Divorced,1,PhD,Unemployed,14.89377609,Urban,Premium,0,15,331,2,21:39.1,Poor,No,Daily,Condo,2160
+66,43,Male,5881,Single,3,Master's,,20.61161192,Urban,Comprehensive,0,18,679,7,21:39.2,Good,No,Rarely,Apartment,2979
+67,45,Male,,Married,3,High School,Self-Employed,17.98863136,Suburban,Comprehensive,,18,375,9,21:39.2,Average,Yes,Rarely,House,829
+68,53,Male,21313,Single,1,High School,Self-Employed,21.1619607,Rural,Premium,2,7,321,1,21:39.1,Good,No,Daily,Apartment,2453
+69,22,Female,73693,Married,2,Master's,Self-Employed,,Rural,Premium,1,1,498,1,21:39.1,Poor,Yes,Weekly,Apartment,588
+70,62,Male,11977,Married,2,PhD,Employed,,Suburban,Comprehensive,3,0,,8,21:39.2,Poor,Yes,Monthly,House,690
+71,30,Female,2490,Married,1,Bachelor's,Self-Employed,,Suburban,Basic,2,0,531,8,21:39.2,Good,Yes,Rarely,Condo,807
+72,64,Female,5904,Married,0,Bachelor's,,26.64759878,Suburban,Premium,0,1,622,6,21:39.2,Average,Yes,Monthly,Apartment,981
+73,33,Male,3795,Married,0,High School,,37.27954468,Urban,Basic,1,15,464,9,21:39.2,Good,Yes,Daily,Apartment,735
+74,23,Male,7515,Single,0,Master's,Self-Employed,22.5272058,Suburban,Comprehensive,2,4,418,9,21:39.1,Average,No,Daily,Condo,3564
+75,45,Male,76766,Married,1,Bachelor's,Employed,14.58288223,Suburban,Basic,0,1,,6,21:39.3,Poor,No,Rarely,Condo,233
+76,47,Female,2558,Single,0,High School,,10.00449006,Rural,Comprehensive,0,3,685,8,21:39.1,Poor,No,Monthly,Condo,2226
+77,34,Female,8072,Married,0,Bachelor's,,25.98839903,Suburban,Comprehensive,2,17,703,1,21:39.2,Poor,No,Daily,House,561
+78,53,Female,25170,Married,2,PhD,,19.39499831,Urban,Basic,0,3,,4,21:39.2,Good,Yes,Weekly,Condo,793
+79,27,Male,948,Single,3,Master's,,37.47954132,Rural,Basic,,16,534,9,21:39.2,,No,Rarely,House,514
+80,27,Male,39681,Single,0,Master's,Employed,7.988788026,Suburban,Premium,,15,454,1,21:39.1,Average,No,Daily,House,115
+81,56,Male,5200,Divorced,4,Master's,Unemployed,38.59011569,Suburban,Basic,,0,502,6,21:39.1,Poor,Yes,Rarely,Apartment,49
+82,45,Female,23228,Single,1,High School,,20.23887945,Suburban,Premium,,14,823,9,21:39.2,Average,No,Daily,House,1032
+83,,Male,645,Single,3,PhD,Employed,30.76628438,Urban,Comprehensive,1,18,319,4,21:39.1,Good,No,Weekly,House,934
+84,21,Female,27208,Married,0,PhD,,30.29190384,Suburban,Basic,1,15,660,2,21:39.2,Poor,No,Daily,Condo,1196
+85,61,Female,19542,Married,1,Bachelor's,Employed,20.78171124,Urban,Comprehensive,1,17,371,5,21:39.1,Poor,No,Monthly,Apartment,903
+86,37,Male,,Single,1,Bachelor's,,13.0382686,Suburban,Comprehensive,,6,562,2,21:39.2,Average,No,Weekly,House,61
+87,52,Male,,Married,2,PhD,Unemployed,28.8644103,Rural,Comprehensive,0,18,488,1,21:39.2,Average,No,Weekly,Apartment,369
+88,45,Male,87092,Single,1,Bachelor's,,16.71544945,Rural,Basic,1,12,577,7,21:39.1,Poor,No,Rarely,Condo,112
+89,38,Female,,Single,3,Bachelor's,Employed,40.16146002,Suburban,Comprehensive,1,1,502,4,21:39.1,Poor,Yes,Monthly,Apartment,2728
+90,19,Female,68892,Married,3,Bachelor's,Employed,41.80267031,Urban,Premium,,3,795,1,21:39.2,,No,Monthly,House,37
+91,63,Female,915,Single,1,PhD,Employed,22.96414545,Rural,Premium,1,17,584,7,21:39.1,Poor,No,Monthly,House,3664
+92,53,Female,1170,Single,0,PhD,Employed,38.59663905,Rural,Premium,0,13,791,6,21:39.1,Average,No,Daily,Condo,2096
+93,33,Male,43974,Divorced,,Bachelor's,Self-Employed,39.05648819,Suburban,Basic,,16,638,5,21:39.1,Average,Yes,Weekly,Apartment,3227
+94,21,Female,43481,Divorced,3,Master's,,24.75443498,Rural,Comprehensive,,18,486,5,21:39.2,,No,Monthly,Apartment,1313
+95,32,Female,27962,Single,2,Master's,Self-Employed,45.39134918,Urban,Basic,0,8,438,2,21:39.2,Average,Yes,Rarely,Condo,2344
+96,46,Female,15704,Single,2,PhD,Unemployed,45.98120277,Urban,Comprehensive,,0,779,4,21:39.3,Average,Yes,Weekly,House,2671
+97,36,Female,2693,Married,3,Master's,Employed,14.01156764,Rural,Premium,1,18,310,4,21:39.2,Poor,No,Monthly,Condo,1078
+98,43,Female,5813,Divorced,2,Bachelor's,Unemployed,29.4414744,Urban,Comprehensive,1,13,748,5,21:39.1,Poor,Yes,Weekly,Apartment,837
+99,20,Male,2449,Single,0,Master's,,10.91004588,Rural,Basic,,13,392,6,21:39.1,Average,Yes,Rarely,Condo,2349
+100,51,Male,82546,Divorced,,Bachelor's,Employed,,Rural,Premium,,3,446,5,21:39.1,Good,No,Monthly,Apartment,3378
+101,39,Female,,Married,0,High School,,24.53429279,Suburban,Basic,,7,,5,21:39.2,Good,No,Daily,House,164
+102,63,Female,31400,Married,4,Bachelor's,Employed,15.93601153,Suburban,Basic,0,0,593,2,21:39.3,Average,No,Monthly,Apartment,657
+103,34,Female,4098,Single,1,Master's,,43.6950309,Rural,Basic,0,5,576,4,21:39.2,,No,Rarely,House,954
+104,51,Male,56415,Married,1,High School,,51.96085903,Suburban,Premium,0,3,493,2,21:39.2,Poor,No,Rarely,Condo,993
+105,44,Female,20705,Divorced,1,Bachelor's,Self-Employed,15.36309867,Suburban,Comprehensive,4,9,479,9,21:39.2,Poor,No,Monthly,House,619
+106,32,Female,45301,Married,2,Master's,,20.31874968,Rural,Basic,,10,826,5,21:39.2,Good,No,Rarely,House,607
+107,19,Male,43953,Divorced,4,Master's,Unemployed,31.71560347,Urban,Premium,0,3,,3,21:39.2,Poor,Yes,Rarely,House,616
+108,62,Female,44674,Single,0,Master's,Unemployed,40.83418317,Urban,Premium,0,5,332,1,21:39.1,Average,Yes,Daily,Condo,632
+109,49,Male,25863,Divorced,2,Bachelor's,Employed,,Suburban,Comprehensive,1,0,616,5,21:39.1,,No,Monthly,Apartment,2045
+110,45,Female,18582,Divorced,2,High School,Employed,34.39658313,Suburban,Basic,1,14,716,2,21:39.2,Poor,No,Daily,Condo,541
+111,40,Male,14079,Single,2,PhD,Unemployed,36.56738627,Suburban,Premium,0,17,602,3,21:39.2,Average,No,Monthly,Apartment,1461
+112,55,Female,21223,Single,4,Master's,Employed,18.86964781,Urban,Comprehensive,3,6,343,8,21:39.2,Average,Yes,Rarely,Apartment,555
+113,55,Male,140988,Married,0,Bachelor's,Unemployed,30.16488435,Urban,Comprehensive,1,4,377,7,21:39.1,Poor,No,Daily,Condo,2411
+114,38,Male,3718,Single,1,PhD,,38.71149999,Rural,Comprehensive,2,7,788,8,21:39.2,Average,Yes,Weekly,House,3111
+115,39,Female,36373,Divorced,2,Master's,Employed,13.51857082,Rural,Comprehensive,1,0,748,4,21:39.1,Average,No,Rarely,Apartment,454
+116,57,Male,17001,Divorced,1,PhD,Employed,14.8947658,Rural,Premium,0,6,,3,21:39.1,,No,Daily,Condo,1055
+117,42,Male,32002,Single,,High School,Unemployed,28.98762714,Urban,Comprehensive,2,7,,4,21:39.1,Good,No,Weekly,Condo,549
+118,39,Female,648,Single,3,Bachelor's,Employed,,Rural,Comprehensive,1,14,758,4,21:39.1,Good,No,Weekly,Apartment,1405
+119,64,Male,18069,Married,4,High School,Employed,20.1824336,Urban,Basic,,3,,5,21:39.2,Good,No,Rarely,Apartment,638
+120,18,Male,1288,Single,2,Bachelor's,Unemployed,34.73797138,Suburban,Premium,1,7,571,2,21:39.1,,Yes,Weekly,Apartment,2120
+121,34,Female,8072,Married,1,High School,,,Urban,Premium,,8,,3,21:39.2,Poor,No,Monthly,House,1186
+122,32,Male,53491,Single,1,PhD,Unemployed,51.12643531,Suburban,Basic,1,12,554,8,21:39.2,Average,No,Weekly,House,1042
+123,24,Male,128516,Divorced,0,PhD,Self-Employed,51.89748496,Rural,Basic,0,4,682,9,21:39.2,Good,Yes,Monthly,Apartment,526
+124,38,Male,13287,Single,4,Master's,Unemployed,46.24282906,Suburban,Premium,,19,641,6,21:39.2,Average,No,Weekly,House,154
+125,18,Male,123331,Married,,Master's,,11.16672696,Rural,Premium,0,11,360,2,21:39.2,Average,Yes,Daily,Condo,1753
+126,48,Female,39766,Divorced,1,Bachelor's,,16.75383415,Urban,Comprehensive,,6,,2,21:39.2,Poor,Yes,Weekly,Apartment,602
+127,20,Male,54532,Divorced,4,High School,Employed,50.09765166,Rural,Premium,1,16,638,4,21:39.2,Good,Yes,Rarely,House,2034
+128,63,Female,24983,Married,1,High School,Unemployed,42.75392627,Urban,Premium,0,2,522,7,21:39.1,Poor,No,Weekly,Apartment,902
+129,47,Male,3631,Married,2,PhD,,37.83764155,Rural,Basic,2,0,728,8,21:39.2,Good,Yes,Monthly,House,731
+130,35,Male,365,Single,0,Master's,Unemployed,29.95731104,Rural,Comprehensive,0,17,388,9,21:39.3,Poor,Yes,Monthly,Condo,747
+131,56,Female,24932,Married,2,High School,Employed,49.73938461,Suburban,Premium,0,1,535,1,21:39.2,Average,Yes,Rarely,Apartment,111
+132,59,Male,86031,,4,Master's,Unemployed,18.87840731,Urban,Basic,,12,519,8,21:39.1,Average,Yes,Monthly,Condo,2228
+133,18,Female,71015,Divorced,4,High School,Self-Employed,23.76421636,Suburban,Premium,0,18,807,2,21:39.3,Average,Yes,Monthly,Apartment,378
+134,30,Female,12595,Married,0,High School,,17.84930741,Rural,Comprehensive,1,6,651,9,21:39.2,Poor,Yes,Rarely,Apartment,677
+135,41,Male,10082,Married,3,Bachelor's,Self-Employed,13.44896104,Urban,Premium,,13,829,8,21:39.3,Average,Yes,Daily,Apartment,872
+136,55,Female,48834,Single,0,High School,Self-Employed,37.03719952,Urban,Premium,,0,486,5,21:39.1,Good,No,Rarely,House,298
+137,40,Male,17894,Divorced,1,Bachelor's,Unemployed,26.836285,Suburban,Premium,,16,,1,21:39.2,Good,Yes,Monthly,House,755
+138,34,Male,45974,Divorced,2,Master's,Unemployed,41.92289188,Rural,Comprehensive,1,3,620,4,21:39.2,Poor,No,Rarely,Apartment,1069
+139,41,Female,10117,Divorced,3,Master's,Self-Employed,6.865259697,Urban,Premium,1,12,641,9,21:39.1,Average,Yes,Monthly,Condo,729
+140,31,Male,6819,Single,,Master's,,15.47971683,Rural,Basic,,7,776,6,21:39.1,Average,No,Weekly,Apartment,1763
+141,60,Male,38920,Single,4,PhD,,52.2030197,Urban,Premium,1,2,835,6,21:39.1,Average,Yes,Monthly,Apartment,3890
+142,22,Female,87770,Divorced,0,PhD,,,Suburban,Premium,,8,779,2,21:39.2,Average,No,Daily,Condo,2158
+143,57,Male,99878,Single,4,PhD,Unemployed,23.94072388,Suburban,Comprehensive,0,6,432,7,21:39.2,Average,Yes,Monthly,Apartment,1596
+144,19,Female,23135,Single,4,PhD,Self-Employed,7.753223863,Rural,Comprehensive,,16,,9,21:39.2,Poor,No,Monthly,Condo,673
+145,26,Female,596,Married,1,High School,Employed,10.83694169,Urban,Basic,1,7,607,1,21:39.2,,Yes,Rarely,House,656
+146,31,Male,5719,Divorced,0,Master's,,28.29201913,Urban,Premium,,1,705,5,21:39.1,Average,Yes,Weekly,House,588
+147,37,Male,1686,Married,1,PhD,Self-Employed,20.66243477,Suburban,Basic,,3,644,7,21:39.2,Average,No,Monthly,Condo,25
+148,23,Female,16077,Married,2,PhD,Self-Employed,45.95889357,Urban,Comprehensive,,5,,8,21:39.2,Good,Yes,Monthly,House,2543
+149,25,Male,7073,Single,3,Master's,Employed,17.0123225,Rural,Premium,,19,686,6,21:39.3,Average,No,Daily,Condo,823
+150,62,Female,83335,Divorced,2,Master's,,13.08513583,Suburban,Comprehensive,1,15,,3,21:39.2,Poor,No,Rarely,Condo,277
+151,59,Male,29777,Single,1,Bachelor's,,27.24794484,Urban,Basic,,5,797,4,21:39.3,Poor,No,Daily,Condo,446
+152,55,Female,54720,Married,3,PhD,Unemployed,31.55247534,Rural,Basic,,16,509,3,21:39.2,Poor,No,Weekly,Condo,2037
+153,35,Male,4907,Single,1,PhD,Unemployed,11.7449289,Rural,Premium,,4,831,6,21:39.2,Average,No,Monthly,Condo,34
+154,61,Female,44377,Married,1,High School,,11.58198633,Suburban,Comprehensive,2,17,,9,21:39.2,Average,No,Weekly,Condo,37
+155,26,Male,61327,Divorced,2,High School,Employed,32.99394599,Urban,Premium,0,4,529,8,21:39.1,Poor,Yes,Rarely,Condo,368
+156,62,Female,6726,Married,2,Bachelor's,Unemployed,6.79434263,Suburban,Comprehensive,0,1,774,2,21:39.2,Average,Yes,Weekly,Condo,44
+157,33,Female,3098,Single,0,Master's,Employed,12.29674138,Rural,Basic,3,14,592,7,21:39.2,Good,Yes,Weekly,House,1033
+158,59,Female,2098,Divorced,2,High School,,35.6825373,Urban,Comprehensive,,6,843,1,21:39.1,Poor,No,Monthly,House,3134
+159,60,Female,,Single,4,Master's,Unemployed,36.33148195,Suburban,Comprehensive,0,8,,8,21:39.3,Poor,Yes,Rarely,Apartment,142
+160,58,Female,2592,Divorced,3,Bachelor's,Employed,30.48454324,Rural,Comprehensive,3,6,392,4,21:39.3,Good,Yes,Monthly,Condo,3040
+161,34,Female,17521,Married,4,Bachelor's,Self-Employed,19.05279241,Suburban,Comprehensive,0,18,738,8,21:39.1,Average,No,Weekly,Apartment,692
+162,62,Female,3739,Single,4,PhD,,38.69134185,Rural,Basic,4,12,486,1,21:39.2,Poor,No,Daily,House,464
+163,24,Male,915,Married,,PhD,,23.0642623,Rural,Basic,,3,781,6,21:39.3,,Yes,Rarely,Apartment,591
+164,55,Male,126549,Single,4,Master's,,15.6744824,Urban,Comprehensive,,14,766,6,21:39.1,Good,No,Daily,Condo,111
+165,61,Female,35817,Single,2,High School,,45.26797578,Rural,Premium,,2,,3,21:39.1,Poor,No,Weekly,Apartment,1099
+166,20,Female,6039,Married,0,Bachelor's,,42.7152873,Suburban,Basic,,5,644,1,21:39.2,Poor,Yes,Weekly,Condo,2316
+167,55,Female,524,Divorced,3,High School,Unemployed,,Rural,Premium,,18,602,8,21:39.2,Poor,Yes,Rarely,House,464
+168,25,Male,7007,Divorced,2,Master's,,22.45112784,Suburban,Comprehensive,2,14,364,8,21:39.2,,Yes,Weekly,Condo,868
+169,43,Male,,Single,2,PhD,Unemployed,14.86567691,Rural,Basic,0,15,349,5,21:39.3,Good,No,Daily,Condo,366
+170,56,Male,6058,Single,0,High School,Unemployed,15.38151991,Suburban,Premium,0,2,692,7,21:39.2,Good,Yes,Rarely,Apartment,23
+171,51,Male,17140,Married,2,Master's,Unemployed,20.23594325,Rural,Comprehensive,,19,574,5,21:39.2,Poor,No,Rarely,Condo,1028
+172,32,Female,123308,Divorced,2,PhD,Unemployed,22.75663935,Suburban,Basic,1,11,324,9,21:39.3,Good,No,Weekly,Apartment,1116
+173,51,Male,35200,Married,3,PhD,Employed,33.90885917,Rural,Premium,0,0,632,3,21:39.3,Average,No,Weekly,Apartment,804
+174,18,Male,56994,Single,4,Master's,Self-Employed,42.34842818,Suburban,Basic,2,2,379,9,21:39.1,Poor,Yes,Daily,Apartment,522
+175,27,Female,67578,Single,2,PhD,Unemployed,30.94844953,Urban,Comprehensive,1,14,434,5,21:39.1,Poor,Yes,Monthly,House,913
+176,51,Female,87744,Single,3,High School,Self-Employed,51.76970352,Urban,Premium,2,11,442,7,21:39.2,Average,Yes,Rarely,Apartment,1592
+177,27,Male,16424,Single,4,Bachelor's,Employed,7.746162231,Rural,Basic,,2,497,5,21:39.2,Good,No,Daily,Condo,1022
+178,64,Male,40512,Married,4,PhD,Unemployed,25.82654366,Rural,Basic,1,4,764,7,21:39.2,Good,No,Weekly,House,2476
+179,63,Female,1038,Married,3,Bachelor's,Unemployed,15.86562183,Rural,Premium,1,0,429,7,21:39.1,Good,Yes,Monthly,House,48
+180,30,Male,13635,Divorced,3,High School,Unemployed,3.957420877,Rural,Basic,0,2,683,3,21:39.2,Average,No,Rarely,House,85
+181,33,Male,5079,Married,0,PhD,Unemployed,16.48206468,Urban,Premium,0,14,770,3,21:39.1,Good,Yes,Rarely,Apartment,939
+182,62,Female,38133,Single,4,Bachelor's,Employed,47.12087962,Suburban,Comprehensive,,19,696,5,21:39.2,Poor,Yes,Rarely,House,1057
+183,21,Female,25318,Single,1,Bachelor's,,25.8232787,Urban,Comprehensive,0,5,611,6,21:39.2,Good,Yes,Monthly,House,745
+184,59,Male,14572,Single,0,Bachelor's,Self-Employed,33.88367589,Rural,Basic,,10,436,1,21:39.2,Poor,No,Weekly,House,2365
+185,21,Male,93924,Single,,Bachelor's,Unemployed,47.98640107,Rural,Premium,1,6,482,8,21:39.2,Poor,Yes,Monthly,Apartment,3168
+186,60,Female,29173,Married,,Master's,Unemployed,,Rural,Comprehensive,0,17,,3,21:39.1,Good,No,Daily,Condo,1127
+187,35,Female,11705,Divorced,0,High School,,41.14681384,Urban,Premium,0,5,636,1,21:39.3,Poor,No,Weekly,Apartment,783
+188,40,Female,196,Married,,Master's,Unemployed,11.65657632,Suburban,Premium,1,17,,3,21:39.2,Average,No,Monthly,Apartment,1391
+189,51,Female,12063,Single,3,Master's,Self-Employed,34.59009929,Urban,Premium,,3,,6,21:39.2,Poor,Yes,Rarely,Condo,39
+190,54,Male,66284,Divorced,1,Bachelor's,,16.26207944,Rural,Premium,0,12,713,4,21:39.2,Good,Yes,Monthly,Condo,229
+191,60,Female,3645,Married,4,High School,Unemployed,13.49079194,Suburban,Comprehensive,,4,498,6,21:39.1,Good,No,Rarely,House,872
+192,45,Female,14450,Divorced,0,High School,Employed,28.37803936,Urban,Premium,,15,479,7,21:39.1,,No,Monthly,House,510
+193,29,Female,43928,Married,1,PhD,Self-Employed,19.71031134,Urban,Premium,,6,609,1,21:39.3,Good,No,Daily,House,722
+194,33,Male,53637,Divorced,3,PhD,Self-Employed,,Suburban,Comprehensive,1,19,374,7,21:39.3,Good,No,Daily,House,587
+195,39,Male,61461,Single,2,PhD,Employed,20.7801587,Suburban,Comprehensive,2,5,566,5,21:39.2,,No,Weekly,House,49
+196,32,Male,5819,Divorced,0,PhD,,,Urban,Basic,0,4,784,7,21:39.3,Average,Yes,Weekly,House,934
+197,23,Male,25444,Married,4,High School,,10.71938514,Rural,Comprehensive,1,5,537,3,21:39.1,Poor,Yes,Monthly,Condo,1375
+198,46,Female,36316,Divorced,3,Bachelor's,,13.82939952,Urban,Basic,0,17,648,5,21:39.2,Average,Yes,Rarely,Apartment,524
+199,51,Female,97966,Single,0,Master's,Self-Employed,9.052357149,Rural,Premium,2,14,578,3,21:39.1,Good,No,Rarely,Apartment,2343
+200,51,Male,11555,Married,1,PhD,Unemployed,,Urban,Comprehensive,0,18,703,9,21:39.3,Average,No,Rarely,Condo,712
+201,45,Female,27892,Single,1,High School,,41.59095044,Urban,Premium,0,2,707,9,21:39.1,Average,No,Monthly,Condo,1404
+202,19,Male,2924,Divorced,0,High School,Self-Employed,17.65346623,Suburban,Basic,3,18,835,9,21:39.2,,No,Daily,Condo,1054
+203,37,Female,12961,Divorced,1,Master's,,22.69002307,Rural,Premium,2,19,581,8,21:39.3,Poor,Yes,Monthly,House,1444
+204,30,Male,85757,Married,3,Master's,Self-Employed,21.08284337,Urban,Premium,,5,541,9,21:39.2,,No,Weekly,Apartment,85
+205,49,Male,5866,Single,0,High School,Self-Employed,31.45132534,Urban,Premium,0,5,845,3,21:39.2,Poor,No,Daily,Condo,1002
+206,59,Male,25881,Divorced,,High School,Employed,27.38248631,Suburban,Comprehensive,1,12,597,6,21:39.1,Average,No,Weekly,House,1347
+207,51,Female,11863,Married,0,High School,,32.29459179,Suburban,Premium,,6,441,3,21:39.2,Good,Yes,Rarely,Apartment,1158
+208,29,Male,6079,Married,2,Master's,Unemployed,32.75160949,Suburban,Premium,0,8,718,2,21:39.1,Average,Yes,Weekly,House,823
+209,25,Male,46184,Single,0,Bachelor's,Self-Employed,38.35496299,Suburban,Basic,1,4,630,9,21:39.2,Average,Yes,Weekly,House,1333
+210,37,Male,37393,Divorced,3,High School,,26.06420164,Rural,Comprehensive,1,5,,4,21:39.2,Average,Yes,Rarely,Apartment,890
+211,26,Male,20014,Divorced,4,PhD,Unemployed,10.93914939,Suburban,Premium,,8,577,6,21:39.1,,Yes,Daily,Apartment,1494
+212,29,Male,72692,Divorced,0,High School,Employed,,Rural,Comprehensive,3,19,586,1,21:39.1,Good,No,Daily,House,20
+213,45,Male,73334,Single,0,Master's,Self-Employed,17.88983502,Urban,Basic,,18,418,5,21:39.1,Good,Yes,Monthly,House,778
+214,52,Male,5521,Married,3,Bachelor's,Self-Employed,17.358823,Rural,Premium,1,15,780,5,21:39.2,Poor,No,Rarely,Apartment,788
+215,32,Female,74764,Single,2,Master's,Employed,14.71153011,Urban,Premium,1,15,,4,21:39.3,Average,No,Daily,House,138
+216,58,Female,24116,Divorced,3,PhD,Self-Employed,21.81299558,Urban,Premium,,10,531,1,21:39.2,Poor,Yes,Rarely,House,1154
+217,38,Male,103340,Single,3,High School,,,Urban,Basic,0,7,,1,21:39.1,Poor,Yes,Daily,Condo,100
+218,46,Male,58697,Married,4,High School,Self-Employed,21.859005,Rural,Basic,1,17,401,1,21:39.2,Good,Yes,Daily,Condo,870
+219,32,Female,43969,Divorced,1,Bachelor's,,10.93870527,Rural,Premium,,18,486,1,21:39.1,Good,Yes,Weekly,Condo,439
+220,18,Male,63823,Divorced,2,High School,Unemployed,51.79321397,Rural,Comprehensive,1,11,757,7,21:39.2,,Yes,Rarely,Condo,479
+221,24,Female,25011,Single,4,Bachelor's,,35.32370126,Suburban,Comprehensive,,7,646,8,21:39.1,Good,Yes,Daily,Apartment,1022
+222,51,Female,3561,Divorced,3,Bachelor's,Employed,,Rural,Premium,,0,752,5,21:39.3,,No,Daily,Apartment,2792
+223,50,Male,27983,Married,2,Master's,Employed,15.05172522,Suburban,Comprehensive,1,11,,7,21:39.2,Good,Yes,Daily,Condo,735
+224,35,Female,43433,Married,2,PhD,Employed,32.5977355,Rural,Premium,3,3,651,1,21:39.1,Average,No,Daily,Apartment,894
+225,33,Female,143816,Single,3,Master's,,3.451750825,Urban,Basic,,11,665,8,21:39.1,Good,No,Daily,Condo,155
+226,50,Male,28344,Married,,High School,Employed,35.96667118,Urban,Premium,1,14,506,3,21:39.2,Good,Yes,Rarely,Apartment,48
+227,59,Male,51574,Divorced,4,Master's,Employed,48.72366256,Urban,Comprehensive,1,6,336,1,21:39.1,Poor,Yes,Monthly,House,1078
+228,31,Male,45267,Married,3,Master's,Self-Employed,46.53433618,Rural,Premium,1,6,696,4,21:39.1,Good,Yes,Rarely,Apartment,472
+229,41,Male,77687,Married,4,PhD,Employed,34.99471971,Urban,Comprehensive,1,9,430,2,21:39.1,Good,No,Monthly,Apartment,88
+230,21,Female,81783,Married,4,High School,Employed,35.81618593,Suburban,Comprehensive,,8,597,8,21:39.3,,No,Weekly,Apartment,22
+231,44,Female,37501,Single,1,Bachelor's,Self-Employed,29.26378424,Rural,Comprehensive,,18,446,8,21:39.2,Good,Yes,Monthly,Apartment,29
+232,29,Female,110813,Divorced,0,Master's,Unemployed,37.71644303,Suburban,Premium,,17,424,7,21:39.1,Good,Yes,Daily,House,442
+233,47,Male,38699,Single,2,PhD,Unemployed,29.43049943,Suburban,Premium,1,9,459,5,21:39.2,Average,Yes,Rarely,House,1270
+234,59,Male,18095,,1,PhD,,23.92301003,Rural,Basic,1,17,786,9,21:39.2,Good,Yes,Rarely,Apartment,1507
+235,57,Female,29094,Divorced,3,Master's,Self-Employed,,Rural,Comprehensive,1,12,695,2,21:39.2,Poor,Yes,Weekly,Condo,531
+236,63,Male,57983,Married,1,High School,Employed,38.35981181,Urban,Comprehensive,1,5,447,6,21:39.2,Average,No,Weekly,House,723
+237,21,Male,1060,Married,0,Master's,,17.9121804,Rural,Comprehensive,,6,339,3,21:39.2,Poor,No,Daily,House,1004
+238,33,Male,57627,Divorced,0,Bachelor's,Employed,6.09016271,Urban,Premium,1,9,,7,21:39.2,Poor,No,Daily,House,4049
+239,28,Female,121675,Divorced,1,High School,,46.97436018,Urban,Basic,2,19,516,3,21:39.1,Poor,No,Daily,Condo,344
+240,18,Male,142347,Divorced,3,High School,Employed,51.71146001,Urban,Premium,0,19,566,2,21:39.2,Good,Yes,Daily,Apartment,1144
+241,28,Female,18280,Divorced,4,Master's,,22.68487978,Urban,Comprehensive,,2,,2,21:39.1,,No,Weekly,Condo,1197
+242,59,Male,29231,Divorced,1,PhD,Employed,16.72001484,Suburban,Premium,1,11,,2,21:39.3,Average,No,Weekly,Condo,1793
+243,55,Female,28886,Married,1,PhD,,14.82706259,Rural,Comprehensive,,3,562,1,21:39.3,Good,No,Rarely,Condo,919
+244,55,Male,30663,Single,4,Bachelor's,Self-Employed,,Urban,Premium,2,0,590,5,21:39.1,Good,Yes,Daily,Apartment,2196
+245,27,Female,,Married,2,PhD,Unemployed,8.879454323,Suburban,Premium,3,12,420,3,21:39.2,Average,No,Rarely,Condo,653
+246,50,Male,14894,Married,0,PhD,,7.539391909,Rural,Basic,0,6,,1,21:39.3,Average,Yes,Daily,House,1616
+247,28,Female,84573,Married,1,Master's,Employed,8.720194922,Urban,Basic,0,0,456,7,21:39.1,Average,No,Monthly,House,178
+248,53,Male,17287,Married,2,Master's,Self-Employed,18.38123095,Rural,Comprehensive,1,0,334,7,21:39.2,Average,Yes,Monthly,House,1604
+249,55,Male,2820,Married,0,PhD,,31.24982549,Urban,Basic,3,6,766,5,21:39.3,Poor,No,Monthly,Apartment,724
+250,41,Male,12791,Married,0,PhD,Employed,16.82416609,Urban,Basic,,2,590,5,21:39.2,Poor,Yes,Weekly,Condo,1373
+251,24,Female,69070,Divorced,1,Master's,Employed,44.9348526,Rural,Comprehensive,1,2,645,2,21:39.2,Poor,Yes,Daily,Apartment,199
+252,24,Male,11319,Single,,Bachelor's,,39.71535022,Rural,Comprehensive,,12,520,8,21:39.2,,No,Rarely,House,175
+253,33,Female,79076,Divorced,,High School,Self-Employed,27.67984658,Rural,Basic,3,12,453,1,21:39.2,Good,No,Rarely,House,2512
+254,36,Male,12984,Married,3,Bachelor's,,32.98842444,Suburban,Premium,1,14,647,3,21:39.3,Average,No,Rarely,House,717
+255,37,Female,61690,Single,4,Master's,Unemployed,28.68705857,Urban,Premium,2,5,449,2,21:39.1,Good,No,Monthly,House,805
+256,36,Female,9612,Married,0,High School,Employed,21.64172676,Urban,Basic,,0,588,4,21:39.1,Good,Yes,Monthly,House,577
+257,35,Female,35682,Divorced,4,PhD,Employed,30.24159642,Rural,Premium,0,10,585,9,21:39.1,Average,Yes,Weekly,Condo,859
+258,33,Female,56812,Divorced,2,PhD,,41.88779092,Suburban,Comprehensive,0,0,489,2,21:39.2,Good,Yes,Monthly,House,2044
+259,64,Female,45645,Married,4,Master's,Self-Employed,,Suburban,Premium,,1,532,4,21:39.2,Poor,Yes,Daily,Apartment,996
+260,38,Female,29759,Married,2,PhD,Employed,27.93933691,Urban,Basic,,17,772,7,21:39.1,Poor,No,Monthly,Condo,663
+261,21,Male,11415,Single,4,Bachelor's,Employed,44.81915432,Suburban,Basic,,9,380,2,21:39.1,Good,No,Monthly,Apartment,1052
+262,45,Female,18307,Married,,Bachelor's,,18.73813387,Urban,Comprehensive,0,17,757,4,21:39.3,Average,Yes,Monthly,Apartment,782
+263,47,Male,17961,Married,1,PhD,Self-Employed,,Urban,Basic,,6,716,7,21:39.2,Average,No,Daily,Condo,1325
+264,37,Male,9989,Married,0,Master's,Self-Employed,49.89770795,Urban,Comprehensive,0,15,490,8,21:39.1,Good,Yes,Daily,House,350
+265,51,Female,9224,Divorced,4,PhD,Employed,37.6768569,Suburban,Comprehensive,0,8,,4,21:39.1,Average,Yes,Daily,Condo,27
+266,49,Male,18058,Divorced,2,PhD,Unemployed,19.89797069,Suburban,Premium,1,17,573,1,21:39.1,Average,No,Rarely,Condo,1326
+267,53,Female,10100,Married,0,Bachelor's,Self-Employed,9.251587955,Urban,Premium,1,18,712,1,21:39.2,Good,Yes,Monthly,House,2437
+268,56,Female,39726,Married,2,High School,Employed,13.31754949,Urban,Comprehensive,0,17,442,2,21:39.2,Average,No,Daily,Condo,1117
+269,47,Female,49091,Single,2,Bachelor's,,46.95898698,Rural,Premium,,8,437,3,21:39.2,,No,Rarely,Condo,2701
+270,53,Female,15735,Divorced,3,High School,Employed,21.95555418,Suburban,Premium,0,15,836,8,21:39.2,Average,Yes,Monthly,Apartment,3021
+271,38,Male,37893,Single,,Bachelor's,,18.58441183,Suburban,Premium,2,6,456,8,21:39.1,Good,No,Weekly,Condo,1642
+272,40,Female,60103,Married,4,High School,,25.89838823,Urban,Premium,0,19,342,4,21:39.3,Poor,Yes,Rarely,House,50
+273,52,Female,36190,Married,4,Bachelor's,Self-Employed,8.241701558,Urban,Basic,,17,792,8,21:39.3,Poor,No,Monthly,House,467
+274,44,Female,73022,Married,3,High School,Employed,22.16746728,Rural,Premium,,2,583,9,21:39.2,Average,No,Daily,House,382
+275,53,Female,11580,Single,,PhD,Self-Employed,12.95422672,Rural,Comprehensive,,9,487,9,21:39.2,Good,No,Rarely,Condo,2360
+276,37,Male,2384,Divorced,0,Bachelor's,Employed,25.35134153,Urban,Comprehensive,0,2,587,3,21:39.3,Average,Yes,Weekly,Condo,56
+277,57,Male,72788,Divorced,3,High School,Employed,44.45709272,Suburban,Basic,1,17,539,8,21:39.3,Average,No,Weekly,Condo,54
+278,29,Female,,Single,4,Master's,Self-Employed,47.83929791,Suburban,Comprehensive,,18,416,3,21:39.3,Good,Yes,Weekly,House,1162
+279,54,Male,71,Divorced,2,Master's,Self-Employed,18.61363377,Urban,Premium,2,4,793,3,21:39.2,Poor,No,Monthly,Condo,1593
+280,55,Female,6097,Married,0,Master's,Employed,18.98983004,Urban,Comprehensive,,3,691,4,21:39.2,Good,Yes,Daily,Condo,1073
+281,45,Female,17109,Single,4,Bachelor's,,44.76685329,Suburban,Basic,1,19,757,4,21:39.2,Average,No,Rarely,House,1641
+282,33,Female,27804,Single,,Bachelor's,Self-Employed,50.57483373,Rural,Premium,1,14,759,2,21:39.2,Average,No,Weekly,Condo,553
+283,44,Male,44728,Divorced,4,High School,Employed,41.24771457,Urban,Comprehensive,1,18,682,5,21:39.1,Good,No,Weekly,Condo,1137
+284,23,Female,619,Divorced,4,PhD,Employed,51.16592758,Urban,Premium,0,12,,9,21:39.2,Average,Yes,Weekly,Condo,894
+285,63,Female,28963,Divorced,3,High School,,7.859185253,Urban,Basic,1,2,583,8,21:39.1,Poor,Yes,Rarely,Apartment,1479
+286,58,Female,25239,Single,,High School,Self-Employed,45.88004555,Rural,Premium,0,10,494,3,21:39.3,Poor,No,Monthly,House,1694
+287,23,Male,43030,Single,3,Master's,Employed,28.81658869,Rural,Premium,,17,695,7,21:39.1,,No,Rarely,Condo,2184
+288,33,Female,62647,Single,2,Master's,Self-Employed,15.38852032,Suburban,Comprehensive,2,15,759,6,21:39.1,Poor,No,Monthly,Condo,2735
+289,62,Female,10116,Married,3,PhD,Employed,47.91416695,Suburban,Comprehensive,,5,716,9,21:39.2,Good,Yes,Rarely,Condo,1484
+290,22,Male,3231,Single,,PhD,Unemployed,29.38156472,Suburban,Comprehensive,0,12,464,2,21:39.2,Average,Yes,Monthly,Condo,803
+291,49,Male,,Married,3,Bachelor's,Self-Employed,13.72313225,Suburban,Basic,2,1,762,5,21:39.1,Poor,Yes,Rarely,Apartment,385
+292,23,Female,35239,Single,2,Master's,,26.29107714,Suburban,Basic,0,5,434,4,21:39.1,Poor,No,Rarely,House,526
+293,28,Female,1298,Divorced,2,High School,Unemployed,35.61947451,Suburban,Premium,2,18,,1,21:39.1,Average,No,Monthly,Apartment,1628
+294,26,Female,3850,,2,Bachelor's,Employed,18.41706037,Rural,Basic,0,12,823,1,21:39.2,Poor,No,Daily,Apartment,372
+295,53,Male,16408,Single,1,Master's,Self-Employed,41.7105393,Rural,Basic,0,3,595,5,21:39.2,Poor,Yes,Weekly,Apartment,1713
+296,54,Female,14112,Married,2,Master's,Self-Employed,10.95887814,Urban,Premium,,13,381,4,21:39.2,Poor,Yes,Rarely,Apartment,2537
+297,19,Female,39112,Divorced,3,Master's,Employed,33.68284144,Urban,Premium,2,11,653,5,21:39.1,Poor,No,Monthly,Condo,1465
+298,32,Male,11587,Married,3,Bachelor's,Employed,39.56717333,Suburban,Premium,1,9,391,1,21:39.1,Good,Yes,Daily,House,2370
+299,36,Female,1054,Single,1,PhD,Employed,37.62762219,Rural,Basic,0,1,472,6,21:39.3,Average,Yes,Monthly,Apartment,724
+300,18,Male,607,Married,0,Master's,Unemployed,16.93370216,Suburban,Basic,1,18,589,1,21:39.2,Poor,No,Monthly,House,1830
+301,32,Female,36231,Single,2,Bachelor's,,10.87380916,Suburban,Premium,,4,538,1,21:39.2,Good,Yes,Monthly,House,3670
+302,23,Male,82970,Single,4,Bachelor's,Employed,9.943472309,Rural,Basic,1,0,439,2,21:39.2,Good,No,Rarely,House,2111
+303,50,Male,2254,Married,0,High School,Self-Employed,22.82499791,Suburban,Premium,,4,321,7,21:39.1,Poor,Yes,Daily,Condo,191
+304,32,Female,48913,,0,Master's,Self-Employed,17.74616119,Urban,Premium,,15,560,3,21:39.3,Average,No,Rarely,House,2086
+305,41,Female,38156,Single,2,Bachelor's,Employed,42.91890019,Suburban,Basic,2,1,774,5,21:39.3,Average,Yes,Daily,Apartment,997
+306,50,Male,17292,Single,3,PhD,Employed,32.74439767,Suburban,Basic,1,13,659,8,21:39.1,Good,Yes,Weekly,Apartment,2695
+307,46,Male,25735,Married,0,Master's,,12.89227885,Urban,Comprehensive,1,12,843,7,21:39.1,Poor,Yes,Monthly,Condo,1356
+308,42,Female,5576,Married,2,Bachelor's,Unemployed,13.98521343,Urban,Premium,1,2,801,6,21:39.2,Poor,Yes,Rarely,Condo,96
+309,,Male,145528,Married,0,Master's,,29.52842637,Urban,Basic,,0,810,9,21:39.2,Good,No,Weekly,Apartment,200
+310,,Male,7077,Divorced,1,Bachelor's,Self-Employed,21.41473722,Suburban,Premium,,15,616,7,21:39.1,Average,Yes,Weekly,Condo,1071
+311,32,Male,68942,Married,4,High School,Self-Employed,24.17054979,Urban,Basic,1,7,,6,21:39.2,Average,Yes,Rarely,Apartment,390
+312,41,Male,548,Married,0,Bachelor's,,50.09965777,Urban,Premium,0,10,425,4,21:39.2,Average,No,Daily,Condo,794
+313,26,Male,17897,Married,2,High School,Employed,20.55334527,Rural,Comprehensive,0,4,734,2,21:39.1,Average,Yes,Daily,House,26
+314,55,Female,119820,Single,3,Master's,Self-Employed,24.98878671,Rural,Comprehensive,,16,731,8,21:39.1,Poor,No,Monthly,Apartment,184
+315,28,Male,8062,Single,1,Bachelor's,,29.63382387,Urban,Premium,0,0,638,9,21:39.1,Good,Yes,Rarely,House,2147
+316,32,Female,20370,Single,0,Master's,Unemployed,20.64405212,Urban,Comprehensive,0,3,696,8,21:39.2,Poor,No,Rarely,Condo,473
+317,58,Male,58602,Single,3,Bachelor's,,33.82737959,Urban,Basic,,3,431,1,21:39.1,Average,No,Rarely,House,358
+318,47,Male,83693,Single,1,Bachelor's,Self-Employed,30.38294065,Rural,Premium,1,13,380,8,21:39.2,Good,No,Weekly,Apartment,612
+319,61,Female,5071,Single,3,Bachelor's,Unemployed,31.82216778,Rural,Premium,1,3,,5,21:39.2,Average,Yes,Rarely,Apartment,809
+320,31,Male,31671,Married,1,PhD,Unemployed,26.86878614,Suburban,Premium,0,16,765,8,21:39.1,Good,Yes,Weekly,Condo,411
+321,49,Male,117342,Single,3,Bachelor's,,7.890772096,Urban,Premium,0,5,,9,21:39.3,Poor,Yes,Rarely,House,206
+322,19,Male,99327,Divorced,0,Bachelor's,Employed,8.524322826,Rural,Comprehensive,0,18,407,1,21:39.1,Good,Yes,Monthly,House,549
+323,33,Male,71400,Single,,High School,Self-Employed,22.30350733,Suburban,Premium,0,13,440,8,21:39.2,Poor,Yes,Weekly,Apartment,614
+324,43,Female,84725,Married,,PhD,,39.83913895,Suburban,Basic,0,11,765,4,21:39.2,Poor,Yes,Weekly,Apartment,150
+325,30,Female,43841,Single,4,Bachelor's,Employed,47.0895503,Urban,Premium,1,13,656,6,21:39.1,Poor,No,Rarely,Apartment,1234
+326,58,Male,1520,Married,4,Bachelor's,,17.54729149,Urban,Premium,2,8,815,7,21:39.1,Average,Yes,Daily,House,1976
+327,19,Male,95929,Single,1,Master's,Self-Employed,22.68484632,Suburban,Comprehensive,,19,434,5,21:39.2,Average,No,Weekly,Apartment,1141
+328,32,Male,66410,Married,1,Bachelor's,Self-Employed,47.31571241,Suburban,Premium,0,4,415,1,21:39.1,Poor,No,Weekly,Apartment,1158
+329,21,Female,33606,Married,0,Master's,,18.68654759,Rural,Comprehensive,1,13,,6,21:39.1,Good,Yes,Daily,Condo,1004
+330,24,Female,3988,Married,4,PhD,Self-Employed,4.270540783,Rural,Comprehensive,0,11,,9,21:39.2,Average,Yes,Monthly,Condo,3631
+331,61,Male,39661,Single,1,Master's,Unemployed,15.66381974,Urban,Premium,0,18,696,4,21:39.2,Poor,No,Monthly,Condo,832
+332,,Male,3065,Divorced,1,High School,Unemployed,38.53653546,Urban,Comprehensive,2,1,758,6,21:39.1,Average,Yes,Daily,Apartment,1597
+333,53,Male,35794,Single,4,Master's,Unemployed,13.82930254,Urban,Basic,,9,527,8,21:39.3,Average,No,Daily,Apartment,1386
+334,53,Female,1577,Single,3,Bachelor's,Employed,,Urban,Premium,1,3,538,1,21:39.1,Good,No,Weekly,House,578
+335,57,Female,29703,Single,2,High School,Employed,6.698440253,Rural,Basic,,7,342,7,21:39.2,Good,Yes,Rarely,Condo,577
+336,36,Male,10042,Married,2,PhD,Unemployed,18.17930133,Suburban,Premium,2,19,613,9,21:39.1,Good,No,Weekly,Condo,923
+337,28,Male,1266,Divorced,4,Bachelor's,Unemployed,18.84923728,Urban,Basic,1,10,310,9,21:39.1,Poor,No,Weekly,Condo,479
+338,53,Female,101398,Single,0,High School,,20.83560277,Suburban,Comprehensive,,17,402,7,21:39.1,Good,Yes,Monthly,Apartment,1019
+339,62,Female,33122,Divorced,0,Bachelor's,,19.79367656,Rural,Basic,0,11,431,1,21:39.2,Good,No,Rarely,Condo,110
+340,49,Female,1233,Divorced,0,High School,Employed,41.93622572,Rural,Premium,,4,762,6,21:39.2,Poor,No,Weekly,Condo,2460
+341,55,Male,18550,Single,4,PhD,Self-Employed,18.59991207,Suburban,Premium,1,0,783,1,21:39.2,Average,Yes,Rarely,Condo,486
+342,26,Female,6093,Single,0,Master's,Self-Employed,15.36452625,Urban,Comprehensive,,0,647,7,21:39.2,Poor,No,Daily,Condo,1119
+343,21,Female,36705,Divorced,,Bachelor's,,43.94871636,Suburban,Comprehensive,0,9,751,3,21:39.2,Poor,No,Rarely,Condo,648
+344,63,Female,14107,Single,3,Bachelor's,Employed,43.88494984,Rural,Premium,,6,658,6,21:39.3,Good,No,Monthly,Condo,1708
+345,22,Male,32235,Single,,High School,,7.823368562,Suburban,Basic,2,0,465,2,21:39.3,Average,Yes,Monthly,Condo,620
+346,37,Male,733,Married,2,Master's,,,Rural,Comprehensive,,11,807,4,21:39.3,Good,Yes,Daily,Apartment,731
+347,33,Female,9097,Divorced,4,High School,Unemployed,47.14041886,Urban,Premium,0,15,647,1,21:39.2,Average,No,Weekly,Condo,2082
+348,52,Male,17391,Divorced,,PhD,Self-Employed,13.73828306,Suburban,Basic,2,4,335,9,21:39.1,Poor,Yes,Daily,Condo,1688
+349,20,Female,15384,Divorced,,High School,Self-Employed,17.99139895,Urban,Comprehensive,0,6,559,1,21:39.1,Poor,No,Weekly,Condo,366
+350,52,Male,6856,Divorced,1,High School,Employed,28.73746319,Rural,Basic,0,16,,9,21:39.1,Average,No,Monthly,Condo,1393
+351,43,Male,22244,Divorced,2,PhD,Self-Employed,29.02732946,Urban,Basic,2,0,836,3,21:39.1,Average,No,Rarely,Apartment,597
+352,52,Male,23013,Divorced,0,Master's,Unemployed,23.51277545,Suburban,Comprehensive,1,13,382,2,21:39.1,,Yes,Rarely,Apartment,456
+353,58,Male,28897,Married,4,Master's,Employed,51.26282849,Rural,Comprehensive,2,10,757,1,21:39.2,Good,No,Daily,Condo,553
+354,50,Female,56439,Married,4,Bachelor's,,25.49091471,Rural,Premium,0,14,522,7,21:39.3,Average,No,Daily,House,368
+355,51,Male,18106,Married,1,PhD,Self-Employed,19.8659967,Suburban,Premium,,7,536,1,21:39.2,Good,Yes,Rarely,House,522
+356,50,Female,43750,Single,3,High School,Employed,23.94568116,Urban,Premium,1,5,603,9,21:39.2,Average,No,Monthly,Apartment,960
+357,55,Male,5875,Married,2,High School,,31.16151694,Rural,Premium,,3,554,3,21:39.2,Good,No,Daily,Condo,287
+358,44,Female,29145,Single,4,Bachelor's,Unemployed,9.828406337,Rural,Comprehensive,1,18,657,7,21:39.1,Good,Yes,Rarely,Condo,1672
+359,52,Male,71872,Married,4,Master's,Employed,17.71175028,Urban,Premium,1,19,742,9,21:39.2,Poor,No,Daily,Condo,35
+360,40,Male,64440,Single,4,Master's,,52.75354351,Rural,Comprehensive,0,4,716,2,21:39.2,Good,Yes,Rarely,Condo,2169
+361,61,Female,60855,Single,2,PhD,Unemployed,32.63396994,Rural,Premium,0,9,430,6,21:39.2,Good,Yes,Daily,Apartment,399
+362,43,Male,39697,Single,4,PhD,Unemployed,20.88596758,Rural,Basic,1,7,846,2,21:39.2,Poor,No,Monthly,Condo,2110
+363,55,Female,11996,Single,,Bachelor's,Unemployed,22.90788352,Urban,Premium,0,18,577,9,21:39.3,Good,Yes,Weekly,Apartment,459
+364,39,Male,5545,Single,2,Bachelor's,,17.01236524,Rural,Basic,1,8,739,4,21:39.1,Poor,No,Monthly,Apartment,1032
+365,36,Male,39425,Married,1,Bachelor's,Self-Employed,31.05593717,Urban,Comprehensive,,12,689,7,21:39.1,Good,Yes,Rarely,Apartment,643
+366,21,Female,1338,Single,0,PhD,Unemployed,10.62228029,Rural,Premium,0,11,543,3,21:39.3,,No,Monthly,Condo,712
+367,62,Female,1318,Married,3,PhD,,19.05442765,Suburban,Premium,2,9,,6,21:39.1,Poor,No,Monthly,Condo,1364
+368,58,Male,38969,Divorced,4,Master's,Self-Employed,20.09152641,Rural,Premium,2,16,468,9,21:39.1,Poor,Yes,Rarely,Apartment,1104
+369,62,Female,46429,Divorced,,Bachelor's,Employed,34.40350877,Suburban,Premium,2,14,513,5,21:39.2,Average,No,Rarely,Apartment,2023
+370,28,Male,52278,Single,4,Master's,Employed,34.40364575,Urban,Comprehensive,1,10,328,5,21:39.2,,Yes,Weekly,Condo,626
+371,20,Female,25662,Married,3,High School,Self-Employed,13.75409879,Suburban,Basic,0,6,578,7,21:39.1,Average,Yes,Daily,Condo,906
+372,27,Male,25891,Single,1,PhD,Unemployed,37.95826041,Rural,Premium,3,3,723,4,21:39.2,Good,No,Monthly,Apartment,3125
+373,27,Male,16886,Married,2,PhD,,47.06795282,Suburban,Premium,0,9,799,1,21:39.2,Poor,No,Daily,Condo,901
+374,34,Male,18705,Divorced,2,Bachelor's,Self-Employed,16.14225314,Rural,Premium,,8,626,2,21:39.1,Good,No,Weekly,Condo,1324
+375,,Male,25697,Divorced,2,Master's,Employed,20.2513652,Urban,Premium,3,2,,2,21:39.2,Average,Yes,Weekly,Apartment,156
+376,30,Female,81659,Married,0,Bachelor's,Employed,34.98750105,Suburban,Comprehensive,2,1,505,3,21:39.3,Average,No,Monthly,Condo,435
+377,47,Male,27674,Married,2,PhD,Unemployed,13.38332918,Urban,Basic,,7,,5,21:39.1,Average,No,Rarely,Apartment,997
+378,63,Male,10963,Divorced,1,Bachelor's,,,Suburban,Basic,2,7,807,3,21:39.2,Poor,Yes,Weekly,Apartment,643
+379,56,Male,36351,Divorced,0,Bachelor's,,39.16658911,Rural,Comprehensive,,5,617,6,21:39.2,,Yes,Daily,Apartment,830
+380,27,Male,2888,Single,4,High School,Self-Employed,25.29346421,Suburban,Premium,2,2,698,4,21:39.2,Good,No,Monthly,House,725
+381,48,Female,287,Married,4,PhD,Unemployed,11.75987689,Urban,Premium,1,12,635,8,21:39.2,Poor,Yes,Rarely,House,1079
+382,42,Female,14157,Married,2,PhD,,7.737332422,Rural,Comprehensive,,16,459,6,21:39.2,Average,Yes,Rarely,Apartment,2585
+383,41,Female,576,Married,4,Master's,,6.936377927,Suburban,Comprehensive,2,11,725,5,21:39.2,Poor,Yes,Monthly,Condo,240
+384,53,Female,1266,Married,,Bachelor's,Unemployed,39.90692659,Rural,Premium,0,12,423,9,21:39.2,Poor,No,Rarely,Condo,657
+385,,Male,19473,Married,2,High School,Employed,35.94634155,Urban,Premium,,2,459,9,21:39.2,Poor,Yes,Daily,House,801
+386,40,Female,18041,Single,3,Master's,Employed,14.77385588,Rural,Comprehensive,,14,441,5,21:39.3,Good,No,Monthly,Apartment,1149
+387,32,Male,7062,Married,3,PhD,,13.85801195,Rural,Comprehensive,1,12,,9,21:39.1,Poor,Yes,Daily,Condo,1069
+388,48,Female,22635,Divorced,0,PhD,,19.76637731,Urban,Comprehensive,0,9,537,4,21:39.1,Average,No,Monthly,House,860
+389,51,Female,76732,Divorced,2,Bachelor's,Employed,31.13117853,Suburban,Basic,2,15,742,7,21:39.2,Good,Yes,Weekly,Condo,3105
+390,37,Female,11043,Divorced,2,Bachelor's,Employed,12.00603911,Suburban,Premium,0,6,744,3,21:39.2,Good,No,Daily,Apartment,687
+391,55,Female,18956,Married,2,Bachelor's,Unemployed,23.78872518,Suburban,Comprehensive,1,14,338,3,21:39.2,Average,No,Daily,Condo,1285
+392,30,Female,132839,Single,0,Bachelor's,,37.08131603,Suburban,Comprehensive,,12,398,2,21:39.1,Average,No,Weekly,House,2830
+393,59,Female,35786,Divorced,3,Master's,,41.40255876,Suburban,Comprehensive,1,8,,5,21:39.3,Average,Yes,Monthly,House,1270
+394,63,Female,2788,Married,,Master's,Self-Employed,,Suburban,Comprehensive,0,8,743,8,21:39.2,Poor,No,Daily,House,2386
+395,33,Male,6730,Single,2,Bachelor's,Unemployed,33.2485505,Rural,Comprehensive,,2,810,1,21:39.3,Poor,No,Weekly,House,1169
+396,49,Female,18061,Married,3,PhD,,46.67662757,Suburban,Premium,3,16,348,9,21:39.3,Poor,No,Monthly,House,723
+397,32,Male,42954,Single,,Master's,,46.9371679,Rural,Comprehensive,,17,798,1,21:39.2,Poor,No,Monthly,Apartment,622
+398,42,Female,60543,Divorced,4,Master's,,41.58871553,Urban,Premium,,9,371,3,21:39.1,Average,No,Monthly,Apartment,456
+399,31,Female,123621,Married,2,High School,Unemployed,20.23280183,Rural,Premium,0,18,835,5,21:39.1,Average,No,Monthly,House,62
+400,25,Female,43987,Single,1,Master's,Unemployed,40.91713534,Rural,Basic,,2,,8,21:39.2,Good,Yes,Monthly,Apartment,1763
+401,29,Female,43896,Married,,High School,,13.61851043,Urban,Premium,,7,531,6,21:39.3,Poor,Yes,Monthly,House,37
+402,61,Female,2386,Married,1,PhD,Unemployed,8.935862633,Rural,Basic,1,9,812,7,21:39.2,,Yes,Weekly,Apartment,945
+403,,Male,6822,Single,2,PhD,Employed,4.751505645,Rural,Basic,,18,,9,21:39.3,Poor,No,Monthly,Condo,1221
+404,18,Female,50517,Married,1,High School,Self-Employed,31.29390135,Rural,Comprehensive,,10,389,7,21:39.2,Average,Yes,Weekly,Condo,203
+405,35,Male,1100,Divorced,0,High School,Employed,24.57421232,Rural,Premium,,7,450,1,21:39.3,Good,Yes,Daily,House,1054
+406,19,Male,23131,Married,1,Bachelor's,,23.82659369,Urban,Premium,,3,833,8,21:39.1,Average,No,Monthly,Condo,2004
+407,23,Male,9791,Divorced,2,High School,Unemployed,16.61671929,Urban,Premium,2,19,438,3,21:39.1,Average,No,Weekly,Condo,728
+408,36,Male,143055,Divorced,1,High School,Unemployed,14.63930219,Rural,Premium,1,4,381,8,21:39.2,Good,No,Daily,Apartment,1090
+409,21,Male,29708,,0,High School,Employed,16.8291101,Urban,Basic,1,3,704,3,21:39.2,Average,No,Monthly,Condo,513
+410,55,Male,41619,Single,0,Master's,,36.54973702,Suburban,Basic,0,0,607,6,21:39.1,Good,Yes,Weekly,Condo,406
+411,64,Male,77868,Single,3,PhD,Employed,55.86843836,Urban,Basic,0,6,667,6,21:39.1,Good,Yes,Daily,Apartment,438
+412,30,Male,2784,Single,2,Bachelor's,Employed,23.08481439,Rural,Comprehensive,1,13,398,6,21:39.2,,Yes,Weekly,Apartment,1347
+413,46,Female,23222,Divorced,0,High School,,26.52750218,Suburban,Premium,0,19,652,4,21:39.1,Average,Yes,Rarely,Condo,1082
+414,26,Male,23285,Married,0,Master's,,22.16392394,Suburban,Basic,1,9,401,3,21:39.2,Poor,Yes,Weekly,Apartment,1696
+415,36,Female,4046,Married,3,Bachelor's,Self-Employed,8.182702264,Rural,Comprehensive,,18,431,3,21:39.1,Average,No,Rarely,Apartment,607
+416,49,Female,23152,Divorced,0,PhD,Unemployed,15.56437288,Urban,Premium,0,13,664,1,21:39.2,Good,No,Monthly,Condo,757
+417,27,Female,26985,Married,0,PhD,Self-Employed,7.948751212,Rural,Comprehensive,0,11,825,1,21:39.1,Average,Yes,Weekly,Apartment,2716
+418,62,Female,61273,Divorced,3,High School,,44.38932796,Suburban,Premium,0,1,496,7,21:39.1,Poor,No,Weekly,Condo,24
+419,51,Female,1340,Divorced,0,PhD,,51.01078403,Suburban,Comprehensive,0,1,692,1,21:39.2,Good,Yes,Monthly,House,562
+420,50,Male,7091,Married,2,Master's,,46.51043025,Suburban,Basic,0,9,504,3,21:39.2,Good,Yes,Rarely,Condo,1346
+421,52,Female,4075,Divorced,2,PhD,,13.24303597,Rural,Premium,4,4,,1,21:39.1,Poor,Yes,Daily,Apartment,562
+422,42,Male,27891,Single,4,High School,Self-Employed,5.813662214,Urban,Premium,,18,629,8,21:39.1,Good,Yes,Weekly,Apartment,1177
+423,36,Female,,Single,2,Master's,Employed,16.55003256,Urban,Basic,1,7,310,8,21:39.2,Good,Yes,Weekly,House,2391
+424,59,Male,2663,Married,1,Bachelor's,Unemployed,9.362149281,Suburban,Comprehensive,2,2,578,9,21:39.3,Average,Yes,Daily,House,515
+425,29,Female,3537,Single,1,PhD,Self-Employed,6.985306023,Urban,Premium,2,11,580,1,21:39.1,,No,Weekly,House,1522
+426,60,Male,38969,Single,1,High School,,18.73850877,Suburban,Premium,0,2,723,7,21:39.3,Average,Yes,Daily,Condo,1793
+427,45,Female,,Married,0,High School,,40.8352257,Rural,Premium,,5,,9,21:39.2,,Yes,Monthly,House,251
+428,51,Female,9530,Divorced,2,High School,Unemployed,18.92750986,Rural,Comprehensive,,16,456,1,21:39.2,Average,No,Daily,Apartment,686
+429,54,Female,11392,Single,2,Bachelor's,Employed,17.30806996,Urban,Premium,2,1,667,3,21:39.2,,No,Daily,Condo,110
+430,34,Female,31384,Divorced,0,High School,Employed,42.98385816,Rural,Comprehensive,,5,758,8,21:39.1,Average,Yes,Daily,Condo,1438
+431,41,Female,39951,Divorced,,Bachelor's,Employed,16.94417439,Suburban,Premium,,4,678,7,21:39.1,Good,Yes,Daily,Condo,597
+432,20,Male,5008,Married,1,High School,Employed,39.27753928,Suburban,Comprehensive,1,6,731,8,21:39.2,Average,No,Rarely,Apartment,1044
+433,63,Female,18085,Single,2,Master's,Unemployed,39.71553517,Urban,Premium,0,16,572,1,21:39.2,Poor,No,Rarely,Apartment,1005
+434,28,Female,34117,Single,1,High School,,21.58478748,Suburban,Comprehensive,1,15,656,9,21:39.2,Poor,Yes,Monthly,Condo,1246
+435,31,Male,55522,Single,0,Bachelor's,Employed,17.39185993,Suburban,Premium,0,9,345,1,21:39.3,Average,No,Weekly,Condo,872
+436,60,Female,21526,Married,2,High School,,27.18764597,Urban,Premium,,4,689,1,21:39.2,Good,Yes,Rarely,Apartment,333
+437,49,Male,17097,Single,2,Master's,,,Suburban,Premium,2,5,752,5,21:39.2,Average,No,Rarely,Condo,718
+438,46,Male,88424,Married,1,PhD,,,Rural,Basic,0,8,397,8,21:39.2,Average,No,Daily,Condo,1273
+439,47,Female,35791,Married,3,Bachelor's,Unemployed,21.09233952,Suburban,Basic,,19,651,4,21:39.3,Poor,Yes,Monthly,House,1160
+440,60,Female,10100,Married,1,Master's,,20.28504936,Suburban,Premium,1,17,576,1,21:39.2,Poor,No,Monthly,Condo,2422
+441,59,Male,10156,Divorced,2,Bachelor's,Employed,32.76443445,Suburban,Comprehensive,2,15,,3,21:39.2,Average,Yes,Weekly,Condo,461
+442,38,Male,38610,Divorced,,High School,Employed,16.73867451,Urban,Basic,1,19,,9,21:39.2,Good,No,Monthly,Condo,3830
+443,22,Female,25148,Single,3,Master's,Self-Employed,13.74300508,Rural,Premium,0,12,602,5,21:39.1,Average,No,Daily,House,845
+444,40,Female,10283,Single,4,Master's,,22.94485053,Rural,Premium,2,13,334,2,21:39.3,Good,Yes,Rarely,Apartment,1437
+445,53,Female,29095,Divorced,,High School,,18.99484928,Rural,Basic,1,2,513,6,21:39.2,Average,Yes,Daily,Apartment,549
+446,37,Female,5788,,0,Master's,,37.87844473,Suburban,Comprehensive,,6,595,1,21:39.1,,No,Daily,Condo,677
+447,34,Male,2792,Married,2,PhD,Unemployed,19.91859598,Rural,Basic,1,1,632,1,21:39.1,,No,Rarely,Condo,1040
+448,50,Female,44871,Married,,Master's,Self-Employed,29.92770074,Rural,Comprehensive,,15,,6,21:39.2,Good,No,Rarely,Condo,884
+449,49,Male,,Married,4,High School,Unemployed,,Urban,Premium,0,7,346,6,21:39.2,Good,No,Monthly,Apartment,1029
+450,29,Male,123854,Married,4,Master's,Employed,25.08954356,Suburban,Premium,0,3,416,3,21:39.1,Poor,Yes,Rarely,House,130
+451,45,Male,,Married,3,Master's,Unemployed,5.668080913,Urban,Basic,4,18,414,3,21:39.2,Poor,No,Rarely,House,396
+452,51,Male,45972,Married,2,Master's,Self-Employed,12.9127547,Suburban,Premium,,19,460,6,21:39.1,Average,Yes,Weekly,Apartment,191
+453,39,Female,49739,Married,3,High School,,24.08433235,Suburban,Comprehensive,,2,,1,21:39.2,Poor,Yes,Monthly,Condo,119
+454,57,Male,33055,Single,3,Bachelor's,,17.71570717,Rural,Basic,0,17,694,2,21:39.1,Average,No,Rarely,House,1789
+455,56,Female,25228,Single,0,Bachelor's,Self-Employed,14.92920791,Suburban,Comprehensive,0,3,823,5,21:39.2,Average,Yes,Daily,Apartment,979
+456,56,Female,27743,Single,0,Bachelor's,,14.66996173,Rural,Comprehensive,0,14,766,9,21:39.1,Good,No,Daily,Condo,143
+457,23,Female,19137,Single,4,Bachelor's,Employed,22.74476317,Rural,Comprehensive,0,14,841,3,21:39.2,Poor,No,Rarely,Condo,1269
+458,37,Male,35144,Married,0,PhD,Self-Employed,18.73952942,Suburban,Comprehensive,,17,482,8,21:39.1,Poor,No,Daily,Apartment,1844
+459,47,Female,25166,Married,4,PhD,,21.09527963,Suburban,Basic,0,15,766,2,21:39.1,Poor,No,Daily,Condo,1341
+460,57,Female,2710,Divorced,2,High School,Self-Employed,,Urban,Basic,2,17,,1,21:39.2,Average,Yes,Rarely,House,860
+461,33,Female,37349,Married,1,PhD,Employed,49.57973517,Urban,Premium,1,10,,6,21:39.3,Good,No,Daily,House,939
+462,28,Female,23258,Married,,Bachelor's,Employed,26.81942999,Rural,Premium,,19,658,7,21:39.3,Good,Yes,Weekly,Apartment,567
+463,62,Female,16063,Single,0,PhD,Unemployed,33.66695573,Urban,Comprehensive,0,2,,1,21:39.1,Poor,No,Monthly,House,1244
+464,31,Female,2098,Divorced,3,Bachelor's,Self-Employed,,Suburban,Premium,,0,647,8,21:39.1,Average,No,Weekly,House,1236
+465,49,Male,16566,Single,,Master's,Self-Employed,19.93716073,Rural,Basic,,5,,5,21:39.1,Average,No,Rarely,House,327
+466,60,Female,55437,Divorced,0,PhD,Unemployed,9.263787241,Rural,Basic,,15,607,4,21:39.1,Good,No,Monthly,Apartment,130
+467,43,Male,6837,Divorced,2,High School,Employed,23.68231031,Rural,Basic,0,10,596,2,21:39.3,Good,Yes,Weekly,Apartment,861
+468,39,Male,115736,Divorced,0,Master's,,22.4870216,Urban,Comprehensive,1,15,674,8,21:39.2,Average,Yes,Daily,Condo,409
+469,60,Female,7814,Divorced,,High School,Unemployed,26.09072962,Suburban,Premium,,12,822,3,21:39.2,Poor,No,Weekly,Apartment,1249
+470,56,Female,626,Married,2,High School,Unemployed,19.45440192,Rural,Basic,1,12,483,8,21:39.1,Average,Yes,Rarely,House,1887
+471,34,Male,30725,Divorced,3,PhD,Employed,18.48978231,Suburban,Comprehensive,0,8,405,4,21:39.1,Good,Yes,Monthly,House,508
+472,26,Female,90084,Single,4,Master's,Employed,25.90210211,Rural,Comprehensive,1,5,314,1,21:39.3,Average,No,Rarely,Apartment,803
+473,53,Female,5027,Divorced,0,PhD,Unemployed,18.38120872,Urban,Premium,0,10,607,8,21:39.2,Poor,Yes,Weekly,Condo,1548
+474,46,Male,44645,Divorced,4,PhD,,32.83586694,Urban,Basic,,3,588,7,21:39.1,Good,Yes,Daily,Apartment,724
+475,41,Female,52716,Single,1,PhD,,36.81643013,Urban,Comprehensive,2,16,565,8,21:39.1,Good,No,Monthly,House,2659
+476,64,Male,27755,Single,1,Bachelor's,,32.01786731,Rural,Premium,1,17,,3,21:39.1,Good,No,Weekly,Condo,2049
+477,49,Female,1740,Divorced,,High School,,33.00351838,Rural,Premium,,2,590,5,21:39.1,Average,Yes,Daily,Apartment,22
+478,52,Male,4920,Single,2,High School,Self-Employed,23.69291962,Suburban,Basic,1,14,812,4,21:39.3,Average,No,Weekly,Condo,102
+479,63,Male,29084,Married,,High School,Unemployed,5.595027087,Rural,Premium,1,5,609,4,21:39.3,,No,Daily,House,939
+480,56,Male,71269,Single,3,High School,Self-Employed,51.85743902,Urban,Comprehensive,1,4,693,7,21:39.1,Good,No,Rarely,Condo,995
+481,18,Male,81449,Divorced,1,High School,Self-Employed,6.596778965,Urban,Premium,0,10,622,8,21:39.1,Average,Yes,Rarely,Apartment,45
+482,38,Female,20303,Single,4,High School,Employed,13.26012624,Rural,Premium,1,16,487,7,21:39.1,Average,Yes,Monthly,Apartment,2346
+483,19,Female,1637,Single,2,Bachelor's,Employed,19.18368615,Suburban,Comprehensive,0,10,485,9,21:39.2,Good,No,Daily,Condo,643
+484,28,Female,55147,Divorced,4,PhD,Employed,14.00147219,Rural,Basic,3,6,832,5,21:39.2,Poor,Yes,Weekly,Apartment,2094
+485,32,Female,,Divorced,2,PhD,Self-Employed,51.86905567,Rural,Basic,2,3,749,8,21:39.1,Poor,Yes,Daily,House,537
+486,49,Male,18380,Single,2,PhD,,9.693568708,Suburban,Premium,,3,364,5,21:39.1,Average,No,Weekly,House,913
+487,26,Female,51461,Single,3,Bachelor's,,13.93725309,Rural,Basic,,16,332,7,21:39.2,Average,Yes,Daily,Apartment,3075
+488,19,Female,16274,Divorced,2,High School,Employed,36.34631319,Urban,Basic,,0,602,9,21:39.1,Good,No,Rarely,House,835
+489,62,Male,104953,Married,2,Master's,,28.89260445,Suburban,Premium,,16,830,4,21:39.1,Poor,No,Weekly,Condo,302
+490,43,Male,132021,Divorced,,High School,,,Suburban,Premium,1,0,,1,21:39.2,Average,Yes,Rarely,Apartment,50
+491,57,Male,83384,Married,4,Bachelor's,,49.67011295,Suburban,Comprehensive,,3,554,8,21:39.1,Good,Yes,Weekly,Apartment,2135
+492,32,Female,1335,Single,2,PhD,,23.72490322,Rural,Premium,0,7,451,9,21:39.2,Average,Yes,Monthly,Condo,363
+493,43,Male,23887,Single,3,PhD,Unemployed,25.91404234,Urban,Basic,0,1,486,1,21:39.3,Average,Yes,Weekly,Apartment,1017
+494,45,Male,2536,Married,3,Bachelor's,Self-Employed,7.259989955,Urban,Comprehensive,,2,387,6,21:39.2,Good,Yes,Daily,Condo,985
+495,59,Male,61540,Married,0,Master's,Unemployed,,Rural,Basic,0,1,774,7,21:39.2,Poor,No,Weekly,House,29
+496,28,Female,68736,Single,1,PhD,Unemployed,44.49304724,Rural,Comprehensive,,4,561,8,21:39.2,,No,Daily,Apartment,2044
+497,32,Female,,Married,4,Bachelor's,Self-Employed,40.91227305,Suburban,Comprehensive,2,14,534,2,21:39.2,,No,Rarely,Apartment,1797
+498,23,Female,826,,2,High School,Unemployed,30.48256975,Suburban,Comprehensive,3,10,744,1,21:39.3,Poor,No,Rarely,Apartment,1703
+499,24,Male,13982,Divorced,3,PhD,Unemployed,5.623565144,Urban,Premium,0,17,586,1,21:39.2,Average,No,Daily,Apartment,956
+500,35,Female,39428,Married,4,Master's,,12.60949989,Rural,Premium,1,6,775,4,21:39.1,Poor,No,Weekly,House,1616
+501,28,Male,54745,Divorced,4,PhD,Employed,7.785723117,Urban,Basic,2,4,326,5,21:39.2,Poor,No,Weekly,House,1003
+502,23,Female,54561,Married,1,High School,,6.820047555,Suburban,Basic,,7,375,7,21:39.1,,Yes,Weekly,House,1609
+503,34,Male,,Single,4,Bachelor's,,18.79778996,Suburban,Comprehensive,,11,758,2,21:39.3,Poor,Yes,Weekly,Condo,399
+504,39,Female,33132,Single,,Master's,Employed,16.60602377,Rural,Comprehensive,0,1,559,4,21:39.3,Average,No,Weekly,Condo,463
+505,41,Female,7077,Divorced,3,PhD,,25.63399223,Suburban,Comprehensive,0,2,,3,21:39.2,Good,No,Rarely,Condo,722
+506,39,Male,38902,Divorced,3,PhD,Employed,12.94217559,Suburban,Basic,,3,728,5,21:39.1,Poor,Yes,Monthly,Condo,156
+507,58,Male,34867,Single,3,Master's,Self-Employed,27.75672076,Rural,Premium,1,6,,6,21:39.2,Average,Yes,Daily,Apartment,111
+508,46,Female,45266,Divorced,4,Bachelor's,Unemployed,24.86701542,Urban,Premium,1,3,585,2,21:39.1,Good,No,Rarely,Condo,472
+509,32,Female,27731,Divorced,3,Bachelor's,Self-Employed,41.64120522,Rural,Premium,0,2,431,9,21:39.3,Good,Yes,Rarely,Apartment,539
+510,33,Male,2673,Single,2,High School,Employed,25.0679874,Urban,Basic,,19,302,1,21:39.1,Average,No,Weekly,Apartment,1174
+511,49,Male,44945,Divorced,0,PhD,Unemployed,11.07833404,Urban,Comprehensive,0,17,587,5,21:39.2,Good,Yes,Rarely,Apartment,631
+512,51,Male,,Divorced,,Bachelor's,Employed,25.59455446,Rural,Basic,0,2,349,3,21:39.2,Good,Yes,Weekly,Apartment,121
+513,27,Male,28688,Married,0,Master's,Self-Employed,24.58440259,Urban,Comprehensive,0,18,,7,21:39.2,Good,No,Rarely,House,675
+514,52,Female,29206,Divorced,3,PhD,Unemployed,12.68663864,Rural,Basic,,6,665,6,21:39.1,Poor,No,Weekly,House,993
+515,27,Female,6978,Married,3,Bachelor's,Self-Employed,30.44143725,Rural,Comprehensive,0,1,382,6,21:39.2,Poor,Yes,Rarely,Apartment,1561
+516,44,Female,21490,Divorced,4,Bachelor's,Unemployed,40.10227988,Rural,Premium,1,18,532,9,21:39.3,Average,Yes,Weekly,Condo,942
+517,28,Male,36806,Divorced,3,Master's,Self-Employed,11.57274589,Rural,Basic,,14,393,8,21:39.2,Poor,Yes,Rarely,Apartment,35
+518,62,Female,10098,Divorced,,PhD,Self-Employed,37.89847185,Rural,Basic,0,7,774,8,21:39.1,Poor,Yes,Monthly,Condo,1356
+519,41,Female,15151,Married,2,PhD,,35.27649067,Urban,Premium,,0,596,9,21:39.2,Poor,No,Weekly,House,1210
+520,47,Female,29614,Single,,Master's,Unemployed,12.43472264,Rural,Basic,,13,810,3,21:39.2,Good,No,Daily,Apartment,834
+521,62,Female,70383,Married,0,Master's,Self-Employed,47.47990863,Suburban,Comprehensive,0,12,339,8,21:39.2,Poor,No,Weekly,House,2082
+522,47,Female,914,Divorced,1,Bachelor's,,7.753710073,Suburban,Premium,,12,727,4,21:39.1,,No,Rarely,Apartment,514
+523,57,Male,898,Single,0,Bachelor's,Unemployed,33.54041829,Suburban,Premium,4,17,463,8,21:39.1,Poor,No,Rarely,Apartment,864
+524,30,Male,10048,Married,1,PhD,Self-Employed,41.59334407,Suburban,Comprehensive,1,13,329,8,21:39.3,Good,Yes,Weekly,Apartment,29
+525,30,Male,15803,Married,4,High School,Employed,8.876164861,Suburban,Premium,0,15,516,9,21:39.2,Poor,Yes,Monthly,House,661
+526,27,Male,35200,Single,4,PhD,Self-Employed,12.71598989,Suburban,Comprehensive,,3,689,8,21:39.2,Good,Yes,Weekly,Condo,1447
+527,54,Male,120563,Single,4,High School,Employed,51.82473648,Rural,Basic,1,10,622,9,21:39.2,Good,No,Rarely,Condo,2534
+528,56,Female,28256,Single,0,PhD,Employed,,Rural,Basic,,2,573,4,21:39.1,Poor,Yes,Daily,House,928
+529,20,Female,4420,Single,0,Master's,Self-Employed,13.69168388,Rural,Basic,1,11,730,2,21:39.2,Average,Yes,Daily,Condo,184
+530,52,Female,37407,Single,4,PhD,Unemployed,15.17697735,Suburban,Basic,1,10,449,9,21:39.2,Average,Yes,Weekly,House,23
+531,25,Female,,Single,1,PhD,,17.81912612,Rural,Comprehensive,1,7,454,2,21:39.2,Poor,Yes,Daily,Apartment,549
+532,60,Male,993,Divorced,4,High School,Employed,27.88748095,Rural,Comprehensive,0,9,304,9,21:39.1,Good,No,Daily,Condo,943
+533,21,Female,90412,Divorced,2,PhD,Self-Employed,32.88876039,Rural,Basic,,14,415,3,21:39.1,Poor,No,Weekly,Condo,2680
+534,52,Male,88655,Married,3,Bachelor's,Self-Employed,17.71655918,Urban,Premium,,15,440,1,21:39.1,Good,No,Monthly,House,535
+535,62,Female,45907,Married,4,PhD,,10.94640974,Urban,Premium,0,18,784,4,21:39.1,Poor,Yes,Weekly,Condo,1071
+536,40,Male,35273,Divorced,3,Master's,Employed,48.88887812,Suburban,Basic,,17,791,6,21:39.2,Poor,No,Rarely,Condo,481
+537,62,Male,9051,Divorced,0,Master's,Employed,11.83679086,Suburban,Comprehensive,0,1,817,6,21:39.2,Good,No,Weekly,House,1054
+538,,Female,18059,Divorced,2,Bachelor's,,8.795822189,Suburban,Comprehensive,,10,843,3,21:39.2,Good,No,Monthly,Condo,1218
+539,60,Male,12096,Single,0,PhD,Employed,21.76969403,Rural,Basic,0,9,,8,21:39.2,Good,Yes,Weekly,House,1174
+540,50,Female,84712,Married,,Bachelor's,Employed,11.69659563,Urban,Premium,,4,349,3,21:39.1,Good,No,Daily,Condo,539
+541,33,Male,120961,Married,3,PhD,Unemployed,19.5836945,Urban,Basic,0,16,445,3,21:39.3,Poor,No,Rarely,House,445
+542,56,Female,817,Divorced,3,Master's,Employed,17.63666756,Urban,Basic,,5,,3,21:39.1,Average,No,Weekly,Apartment,434
+543,63,Male,104488,,4,High School,,45.78812585,Suburban,Comprehensive,1,16,674,4,21:39.2,Average,No,Weekly,Apartment,303
+544,44,Male,1217,Single,0,Bachelor's,Employed,28.65702348,Urban,Basic,2,11,768,6,21:39.2,Average,No,Daily,Condo,904
+545,45,Female,35478,Divorced,3,Bachelor's,Employed,8.906312153,Suburban,Premium,0,17,841,9,21:39.2,Average,No,Weekly,Condo,974
+546,42,Female,1437,Single,4,High School,Employed,25.95913942,Rural,Premium,,5,439,3,21:39.1,Poor,Yes,Monthly,Condo,669
+547,20,Female,18199,Married,,High School,Unemployed,19.57254547,Suburban,Premium,,19,632,4,21:39.2,Good,Yes,Monthly,Condo,22
+548,52,Male,10097,Divorced,4,Master's,Employed,12.73481817,Urban,Comprehensive,0,11,567,4,21:39.1,Average,Yes,Daily,House,152
+549,48,Female,16245,Single,0,PhD,Self-Employed,11.71929983,Suburban,Comprehensive,,11,738,8,21:39.1,Good,Yes,Monthly,Apartment,816
+550,63,Female,,Single,0,Bachelor's,Self-Employed,22.92470458,Urban,Comprehensive,0,19,431,3,21:39.2,Poor,Yes,Weekly,Condo,634
+551,30,Female,30603,Married,,Master's,Unemployed,32.0826852,Rural,Comprehensive,2,16,445,3,21:39.1,Average,Yes,Rarely,Condo,798
+552,27,Female,744,Married,0,Master's,Employed,24.62003202,Suburban,Basic,2,15,483,7,21:39.2,,No,Rarely,Condo,880
+553,,Male,35391,Married,1,High School,,18.7381432,Rural,Premium,,4,639,4,21:39.2,Good,No,Weekly,Condo,1439
+554,40,Female,989,Single,2,Master's,Employed,14.39343003,Urban,Premium,,7,491,4,21:39.2,,Yes,Monthly,Condo,42
+555,45,Female,1805,Married,3,Master's,Employed,29.47963806,Suburban,Comprehensive,1,15,489,1,21:39.1,Poor,Yes,Rarely,Apartment,37
+556,21,Male,5908,Married,4,PhD,Unemployed,47.20267483,Suburban,Basic,2,15,582,4,21:39.2,Average,Yes,Daily,Apartment,514
+557,40,Male,12773,Single,1,High School,Self-Employed,39.87931261,Rural,Comprehensive,,5,,3,21:39.3,Good,Yes,Daily,Apartment,20
+558,24,Female,29173,Married,,High School,Self-Employed,39.44156915,Urban,Premium,1,19,764,3,21:39.1,Good,Yes,Monthly,House,783
+559,18,Male,1883,Divorced,2,PhD,,21.39891689,Urban,Comprehensive,0,3,420,8,21:39.1,Poor,Yes,Weekly,Apartment,325
+560,61,Male,567,Married,2,Master's,Self-Employed,22.25672144,Rural,Basic,3,1,542,6,21:39.2,Good,No,Monthly,Apartment,1361
+561,45,Male,4569,Divorced,0,PhD,,15.56437288,Urban,Basic,,19,426,3,21:39.1,Good,No,Daily,Apartment,1256
+562,56,Female,17363,Married,3,PhD,,22.93814571,Urban,Comprehensive,,18,674,3,21:39.2,Poor,No,Rarely,Condo,538
+563,20,Female,28418,Married,0,High School,Unemployed,18.48172706,Urban,Comprehensive,0,8,744,1,21:39.3,Poor,No,Weekly,Condo,1506
+564,64,Male,7275,Married,2,PhD,Employed,40.89516755,Rural,Comprehensive,1,14,762,7,21:39.3,Poor,No,Rarely,Apartment,624
+565,57,Male,15983,Married,2,High School,Self-Employed,35.08340165,Rural,Basic,0,5,662,2,21:39.2,Poor,No,Monthly,Apartment,2089
+566,18,Male,46280,Divorced,4,Bachelor's,,19.08337153,Rural,Comprehensive,0,16,761,4,21:39.1,Average,No,Weekly,Apartment,110
+567,58,Male,33262,Divorced,0,Bachelor's,Unemployed,21.3907672,Urban,Premium,0,14,819,2,21:39.1,Good,Yes,Rarely,Apartment,2816
+568,54,Female,9436,Divorced,1,Master's,Employed,18.81467639,Suburban,Premium,,16,791,1,21:39.1,Poor,No,Daily,Apartment,1136
+569,28,Female,109814,Divorced,3,PhD,Employed,27.77101772,Suburban,Comprehensive,,16,831,7,21:39.1,Average,No,Daily,Apartment,350
+570,,Male,,Single,2,PhD,Self-Employed,48.08846546,Rural,Basic,1,0,778,2,21:39.3,Good,No,Daily,House,66
+571,44,Female,2666,Married,3,High School,,16.89609549,Rural,Comprehensive,4,12,707,1,21:39.1,,Yes,Monthly,Apartment,1423
+572,47,Female,75784,Single,2,PhD,,24.829362,Suburban,Basic,1,0,523,5,21:39.2,,Yes,Rarely,Condo,2214
+573,56,Male,3815,Divorced,,Bachelor's,,,Suburban,Comprehensive,0,14,787,9,21:39.1,Poor,Yes,Monthly,House,558
+574,44,Female,,Single,0,Bachelor's,,23.90845903,Rural,Premium,1,1,641,4,21:39.1,Poor,No,Monthly,Condo,287
+575,59,Male,1280,Single,4,High School,Employed,22.86931197,Rural,Premium,2,9,350,1,21:39.1,Good,No,Weekly,House,1163
+576,34,Female,63484,Single,4,Bachelor's,Employed,11.75361545,Rural,Basic,1,12,618,2,21:39.2,Poor,Yes,Daily,Apartment,91
+577,56,Female,8073,Single,1,Master's,,26.7354058,Rural,Basic,1,0,743,2,21:39.2,Good,No,Rarely,House,678
+578,51,Male,18051,Divorced,,Master's,Self-Employed,16.08707746,Rural,Basic,2,6,548,8,21:39.3,,Yes,Weekly,Apartment,658
+579,60,Male,2894,Single,,High School,Self-Employed,,Urban,Premium,1,19,466,3,21:39.1,Poor,Yes,Weekly,Apartment,1185
+580,26,Female,58904,Married,2,Bachelor's,Unemployed,10.88209086,Urban,Premium,1,13,392,5,21:39.1,Good,No,Rarely,Apartment,1616
+581,44,Male,14894,Single,0,PhD,Employed,8.275429457,Suburban,Basic,1,14,496,4,21:39.2,Poor,No,Monthly,Condo,834
+582,62,Male,44302,Single,4,PhD,Unemployed,16.63872908,Urban,Basic,1,6,491,8,21:39.2,Average,Yes,Monthly,Apartment,807
+583,29,Male,2957,Divorced,0,PhD,Unemployed,18.3880616,Rural,Premium,,12,437,9,21:39.1,Poor,No,Rarely,Apartment,2155
+584,55,Female,23494,,2,Master's,,6.891740358,Suburban,Premium,,19,702,8,21:39.2,Average,Yes,Monthly,House,1085
+585,31,Female,1018,Married,,PhD,Self-Employed,37.68122683,Suburban,Premium,2,12,635,1,21:39.3,Poor,No,Rarely,House,39
+586,27,Female,40252,Single,0,Master's,Employed,,Rural,Comprehensive,2,3,566,7,21:39.2,Average,No,Weekly,Condo,785
+587,60,Male,6861,Married,0,Master's,Employed,16.7746286,Rural,Comprehensive,1,19,543,1,21:39.2,Good,Yes,Daily,House,822
+588,49,Female,46916,Divorced,2,Bachelor's,,17.59459025,Suburban,Comprehensive,1,16,,9,21:39.2,Average,Yes,Daily,Apartment,411
+589,63,Male,48676,Divorced,2,Master's,Self-Employed,24.93672178,Rural,Comprehensive,1,17,424,1,21:39.1,Poor,No,Rarely,Apartment,1507
+590,42,Male,5037,Single,3,Master's,,23.89804724,Suburban,Basic,1,8,394,5,21:39.3,Average,No,Daily,House,1560
+591,59,Male,2098,Single,4,Bachelor's,Employed,41.17086428,Suburban,Basic,2,10,844,1,21:39.2,,Yes,Monthly,Apartment,3929
+592,28,Male,8894,Married,1,PhD,Unemployed,16.63682557,Rural,Premium,,10,595,9,21:39.1,Good,No,Rarely,Apartment,3961
+593,40,Female,7894,Divorced,1,Bachelor's,Self-Employed,30.65498252,Rural,Premium,2,18,508,5,21:39.2,Average,No,Weekly,House,688
+594,26,Female,1588,Divorced,1,High School,Employed,47.33693958,Urban,Basic,2,0,825,1,21:39.1,Average,Yes,Daily,House,662
+595,33,Female,10130,Single,3,Bachelor's,Unemployed,7.184215884,Rural,Basic,,11,756,1,21:39.2,Poor,No,Weekly,Condo,478
+596,52,Male,17883,Single,0,PhD,Employed,30.59291267,Suburban,Premium,0,2,431,9,21:39.2,Good,No,Weekly,Apartment,1136
+597,18,Female,123853,Divorced,2,PhD,Self-Employed,38.09287857,Suburban,Premium,,5,437,6,21:39.2,,Yes,Weekly,Condo,1177
+598,31,Male,11881,Divorced,4,PhD,Self-Employed,19.95675175,Rural,Comprehensive,,12,805,2,21:39.2,Average,No,Weekly,House,1259
+599,54,Male,16079,Single,1,Bachelor's,Self-Employed,9.247021479,Urban,Basic,0,17,476,9,21:39.1,Good,Yes,Weekly,Apartment,2139
+600,56,Female,82586,Single,0,Master's,Unemployed,8.172764281,Rural,Basic,3,3,581,1,21:39.1,,No,Daily,Apartment,3514
+601,23,Male,16281,Single,2,High School,,22.36156737,Rural,Premium,3,6,820,9,21:39.2,,Yes,Monthly,Apartment,479
+602,28,Male,20683,Single,3,High School,Employed,40.85467825,Urban,Premium,,8,,1,21:39.2,Good,Yes,Weekly,Condo,370
+603,23,Male,50711,Single,3,PhD,Self-Employed,44.08378086,Urban,Basic,2,13,381,1,21:39.1,Poor,No,Rarely,House,2192
+604,57,Male,38140,Married,4,Bachelor's,Employed,21.86936542,Suburban,Comprehensive,,0,679,5,21:39.2,Average,Yes,Daily,Apartment,874
+605,54,Male,,Married,4,High School,Unemployed,37.31884084,Urban,Premium,1,2,349,3,21:39.2,Average,No,Weekly,Condo,705
+606,63,Male,79560,Divorced,1,Bachelor's,Unemployed,31.04531953,Suburban,Premium,,5,,3,21:39.2,Good,No,Daily,Apartment,133
+607,33,Female,6963,Single,1,Bachelor's,Unemployed,40.55773535,Suburban,Premium,,10,807,2,21:39.1,Poor,Yes,Rarely,House,1245
+608,38,Female,29055,Single,1,High School,,15.87637642,Urban,Premium,3,7,625,7,21:39.1,Good,No,Weekly,House,541
+609,30,Male,6832,Single,2,High School,Employed,15.14376393,Rural,Basic,3,8,415,5,21:39.1,Good,Yes,Rarely,Condo,3051
+610,27,Male,18058,Divorced,0,Bachelor's,Unemployed,34.5473894,Urban,Comprehensive,2,3,506,5,21:39.2,Average,Yes,Weekly,Apartment,614
+611,62,Male,2689,Divorced,3,PhD,Unemployed,29.76934334,Rural,Comprehensive,2,15,659,2,21:39.1,Poor,Yes,Rarely,Condo,849
+612,28,Female,114093,Divorced,4,Bachelor's,,31.82787001,Urban,Comprehensive,,14,544,5,21:39.2,Average,No,Rarely,House,359
+613,51,Female,10847,Divorced,,High School,,39.12335371,Suburban,Basic,1,18,829,3,21:39.2,Poor,No,Weekly,Condo,776
+614,55,Male,43414,Single,,Master's,,27.85898532,Suburban,Comprehensive,1,11,544,7,21:39.2,Poor,No,Daily,House,769
+615,18,Female,28863,Married,3,PhD,Unemployed,39.19309252,Rural,Comprehensive,,13,,1,21:39.3,Good,Yes,Weekly,Condo,1537
+616,45,Female,32833,Married,3,Master's,,5.664755119,Suburban,Comprehensive,2,7,767,3,21:39.3,Poor,Yes,Rarely,House,1290
+617,38,Male,18453,Divorced,4,Bachelor's,Self-Employed,24.76484152,Rural,Premium,,17,783,7,21:39.2,Good,No,Rarely,Apartment,639
+618,,Male,27401,Divorced,0,Master's,Employed,29.88180041,Suburban,Premium,,16,566,6,21:39.2,Poor,No,Rarely,Apartment,884
+619,53,Female,43475,Married,2,High School,Unemployed,11.00388015,Suburban,Comprehensive,0,15,511,5,21:39.1,Average,No,Rarely,Condo,1827
+620,57,Male,24712,Divorced,3,Master's,Employed,32.97475653,Suburban,Basic,2,17,473,2,21:39.2,Poor,Yes,Rarely,Condo,1332
+621,57,Female,1786,Single,0,Master's,,51.58781678,Urban,Premium,,13,521,6,21:39.2,Poor,No,Weekly,House,894
+622,52,Female,1576,Divorced,3,Bachelor's,,37.88291164,Urban,Premium,,10,,5,21:39.3,Average,No,Weekly,House,2248
+623,,Male,9852,Married,1,Master's,Unemployed,32.09535688,Rural,Comprehensive,,12,,2,21:39.1,Good,Yes,Monthly,House,1619
+624,41,Male,36560,Divorced,1,High School,Employed,3.506464164,Urban,Comprehensive,0,8,785,3,21:39.1,Good,Yes,Daily,House,93
+625,23,Female,84920,Divorced,3,High School,Unemployed,14.86538653,Urban,Basic,0,10,442,4,21:39.1,Average,Yes,Daily,House,1074
+626,54,Female,128937,Single,,PhD,Self-Employed,13.80279216,Urban,Comprehensive,4,7,482,9,21:39.2,Average,Yes,Weekly,Apartment,1744
+627,43,Female,,Single,1,PhD,Self-Employed,,Rural,Comprehensive,3,5,,8,21:39.1,Good,Yes,Rarely,Condo,1110
+628,33,Male,28665,Divorced,2,PhD,Unemployed,29.03967061,Rural,Comprehensive,,11,516,5,21:39.3,Good,Yes,Weekly,Apartment,3416
+629,51,Female,37486,Married,1,High School,,6.788587501,Suburban,Premium,1,9,846,4,21:39.1,Average,No,Rarely,Condo,2610
+630,61,Male,35790,Married,3,High School,,3.937786283,Suburban,Premium,,2,839,3,21:39.2,,No,Monthly,House,671
+631,44,Male,10788,Single,4,High School,Self-Employed,19.26362953,Rural,Premium,1,15,553,3,21:39.2,Poor,No,Daily,Condo,556
+632,46,Female,44334,Married,2,Master's,,29.72366992,Suburban,Comprehensive,1,12,828,8,21:39.2,Poor,Yes,Weekly,Apartment,1263
+633,26,Female,1027,Divorced,1,Bachelor's,Unemployed,26.81900739,Suburban,Premium,,4,731,1,21:39.3,Average,No,Daily,House,27
+634,64,Female,55017,Single,0,High School,Self-Employed,16.29572377,Suburban,Premium,,2,456,2,21:39.2,Poor,Yes,Rarely,House,522
+635,34,Male,77630,Single,4,Master's,Self-Employed,12.09397724,Suburban,Basic,2,19,325,8,21:39.2,Good,Yes,Monthly,House,2859
+636,48,Female,45279,Divorced,3,PhD,,30.88758517,Suburban,Comprehensive,0,17,756,7,21:39.1,Average,No,Monthly,Condo,1709
+637,35,Female,5035,Divorced,1,Master's,Unemployed,31.44262226,Rural,Basic,,13,581,1,21:39.1,Poor,No,Rarely,Condo,1639
+638,60,Female,14469,Divorced,2,Bachelor's,Employed,16.72373504,Rural,Comprehensive,1,11,,5,21:39.2,Average,No,Rarely,Apartment,570
+639,41,Male,44973,Single,4,Bachelor's,Unemployed,11.01352031,Suburban,Basic,1,8,685,3,21:39.1,Good,No,Daily,House,1523
+640,24,Male,75947,Divorced,0,Master's,Unemployed,23.95544438,Rural,Comprehensive,,12,461,3,21:39.1,Poor,No,Monthly,Condo,62
+641,45,Female,103682,Married,,Master's,Self-Employed,40.93957954,Suburban,Premium,1,13,519,9,21:39.1,Good,No,Weekly,Condo,227
+642,33,Female,12963,Single,2,High School,Self-Employed,15.96560374,Rural,Basic,2,16,822,2,21:39.1,Average,Yes,Daily,Condo,587
+643,20,Male,43765,Single,0,High School,,16.05231924,Suburban,Comprehensive,0,0,547,1,21:39.2,Average,Yes,Daily,House,1290
+644,21,Female,43901,Married,,Bachelor's,Unemployed,27.66096835,Suburban,Basic,0,2,836,9,21:39.2,Good,Yes,Weekly,House,755
+645,59,Female,20644,Married,3,PhD,Employed,45.86788538,Urban,Basic,,14,302,2,21:39.2,Average,Yes,Daily,Condo,4059
+646,47,Female,44756,,1,Master's,Unemployed,27.69346598,Rural,Basic,,0,487,9,21:39.2,Poor,No,Rarely,House,110
+647,64,Male,83902,Single,3,Master's,,39.76986399,Suburban,Premium,,14,,5,21:39.2,Good,Yes,Monthly,Apartment,223
+648,49,Male,8054,Divorced,3,Master's,Employed,,Urban,Basic,0,10,594,7,21:39.2,Good,Yes,Monthly,Apartment,496
+649,64,Male,107972,Divorced,3,PhD,Employed,32.5519673,Urban,Premium,0,9,724,8,21:39.2,Good,Yes,Rarely,House,48
+650,21,Male,25011,Single,0,PhD,,5.835652877,Rural,Premium,3,16,543,4,21:39.1,Poor,No,Daily,Apartment,586
+651,26,Female,2561,Married,1,High School,,13.06511318,Rural,Comprehensive,2,11,827,7,21:39.1,Good,No,Weekly,House,662
+652,26,Female,2845,Divorced,0,PhD,Unemployed,27.0686519,Suburban,Comprehensive,,11,495,8,21:39.2,Average,Yes,Monthly,Apartment,1503
+653,30,Female,24752,Single,2,High School,Unemployed,,Rural,Comprehensive,,11,758,7,21:39.2,,No,Rarely,Apartment,1216
+654,40,Female,58195,Single,3,Master's,Unemployed,9.988687609,Rural,Premium,0,8,309,9,21:39.2,Good,Yes,Monthly,Condo,481
+655,39,Male,149473,Single,2,Bachelor's,Unemployed,12.91912804,Suburban,Comprehensive,1,14,378,6,21:39.2,Poor,Yes,Monthly,Apartment,208
+656,55,Female,5874,Single,0,High School,Employed,22.98878718,Rural,Premium,,10,578,7,21:39.1,Average,Yes,Weekly,Apartment,955
+657,29,Female,15456,Married,1,PhD,Unemployed,48.06818999,Urban,Premium,0,8,567,1,21:39.3,Average,Yes,Rarely,House,1632
+658,60,Male,18297,Divorced,4,PhD,Employed,35.57107381,Rural,Comprehensive,1,5,775,1,21:39.2,Average,Yes,Daily,Condo,581
+659,36,Male,8258,Single,2,Bachelor's,,26.9199932,Suburban,Comprehensive,0,14,576,7,21:39.1,Poor,No,Daily,House,694
+660,34,Female,19287,Married,3,Master's,Self-Employed,47.11582441,Suburban,Basic,2,7,492,1,21:39.2,Good,Yes,Daily,House,1149
+661,58,Male,31275,Single,4,PhD,Self-Employed,12.89076804,Rural,Premium,0,19,705,1,21:39.2,Poor,No,Monthly,Condo,1186
+662,64,Female,46439,Single,3,High School,Self-Employed,18.06659737,Urban,Comprehensive,1,4,497,6,21:39.2,Poor,Yes,Weekly,Condo,327
+663,62,Female,20734,Single,4,PhD,Employed,22.27581423,Suburban,Premium,1,9,687,4,21:39.1,Poor,No,Monthly,Condo,1409
+664,23,Male,31146,Married,3,PhD,Unemployed,29.66069992,Suburban,Comprehensive,0,15,722,5,21:39.1,Poor,Yes,Monthly,Apartment,718
+665,24,Female,92776,Divorced,,PhD,,13.57993217,Suburban,Premium,,1,452,2,21:39.3,Good,Yes,Monthly,Apartment,80
+666,26,Female,2369,Divorced,2,Bachelor's,,5.25014758,Suburban,Basic,2,17,797,6,21:39.2,Poor,Yes,Monthly,House,739
+667,58,Female,15886,Divorced,,Bachelor's,Unemployed,20.84741448,Suburban,Basic,2,18,,4,21:39.1,Average,Yes,Weekly,House,1867
+668,20,Male,55964,Single,,Master's,Employed,51.23332834,Rural,Premium,3,19,,8,21:39.2,Average,Yes,Rarely,Condo,3097
+669,29,Female,12096,Single,2,Master's,Self-Employed,33.68774549,Suburban,Premium,2,16,568,5,21:39.2,Poor,No,Weekly,Apartment,30
+670,63,Male,61400,Divorced,2,High School,Self-Employed,14.72466649,Suburban,Comprehensive,1,11,,8,21:39.3,Good,No,Daily,House,105
+671,49,Male,718,Married,0,High School,Employed,10.907457,Rural,Premium,2,15,596,2,21:39.2,Average,Yes,Monthly,House,1724
+672,34,Male,91358,Divorced,3,High School,Self-Employed,,Urban,Premium,0,7,816,7,21:39.2,Good,Yes,Monthly,House,2657
+673,26,Female,11151,Single,,PhD,Self-Employed,,Suburban,Basic,0,10,531,4,21:39.2,Poor,No,Daily,Condo,1447
+674,31,Male,24280,Married,,Master's,Employed,39.15808784,Urban,Premium,0,9,470,2,21:39.3,Average,No,Daily,House,474
+675,32,Female,27365,Divorced,4,Master's,Employed,29.05380158,Suburban,Premium,1,8,,8,21:39.3,Average,Yes,Monthly,House,597
+676,25,Female,92648,Single,4,PhD,,32.18486237,Suburban,Basic,,5,449,7,21:39.1,Good,Yes,Weekly,Apartment,20
+677,29,Female,3561,Single,4,PhD,Self-Employed,50.93425883,Suburban,Basic,0,2,,9,21:39.1,Good,No,Rarely,House,4366
+678,62,Male,,Single,,Master's,,51.72601258,Urban,Comprehensive,,7,,3,21:39.2,Poor,Yes,Rarely,Condo,1737
+679,31,Female,119757,Divorced,2,Master's,Self-Employed,31.35269284,Urban,Comprehensive,2,7,694,3,21:39.3,,No,Daily,House,886
+680,19,Female,14962,Single,2,Bachelor's,Unemployed,33.13986566,Rural,Comprehensive,1,13,555,6,21:39.2,Poor,No,Monthly,Condo,38
+681,37,Female,1106,Single,0,Master's,Employed,23.09783524,Urban,Comprehensive,2,8,709,8,21:39.2,Poor,No,Rarely,Condo,468
+682,33,Male,46623,Married,,PhD,Self-Employed,,Rural,Premium,0,17,391,4,21:39.2,Poor,No,Monthly,House,1341
+683,58,Female,3344,Divorced,3,High School,Unemployed,37.84789318,Urban,Premium,0,10,571,1,21:39.1,Good,Yes,Monthly,Apartment,3577
+684,20,Female,,Single,1,Bachelor's,Unemployed,48.59607881,Suburban,Basic,0,2,417,2,21:39.1,Average,Yes,Daily,Condo,321
+685,37,Male,33472,Single,2,Bachelor's,,41.98136087,Urban,Basic,3,4,346,9,21:39.2,Average,No,Rarely,Apartment,569
+686,36,Female,111019,Divorced,0,PhD,Unemployed,40.53214463,Urban,Comprehensive,0,16,382,7,21:39.2,Good,No,Daily,Condo,393
+687,23,Male,20797,Married,1,Master's,,11.81490096,Rural,Premium,1,15,679,9,21:39.2,Poor,Yes,Rarely,Condo,30
+688,32,Female,4045,Divorced,4,Bachelor's,Employed,8.945687991,Suburban,Comprehensive,0,9,639,7,21:39.2,,Yes,Weekly,Condo,474
+689,44,Male,16071,Married,,Bachelor's,,16.80493065,Urban,Premium,0,8,719,6,21:39.1,Good,No,Rarely,Condo,852
+690,57,Female,39681,Married,1,High School,,18.64787831,Rural,Comprehensive,,4,591,5,21:39.1,Average,No,Rarely,Condo,1653
+691,50,Female,3494,Single,1,Bachelor's,Self-Employed,7.664706344,Urban,Premium,2,18,396,9,21:39.1,Average,Yes,Rarely,Condo,726
+692,38,Female,36806,Divorced,2,Bachelor's,Unemployed,9.35585542,Suburban,Comprehensive,0,4,584,2,21:39.2,Poor,Yes,Weekly,House,1079
+693,61,Female,20659,Married,1,High School,,33.77683799,Rural,Premium,0,15,731,6,21:39.2,Good,Yes,Rarely,House,1270
+694,29,Female,20897,Single,0,Bachelor's,,11.7176598,Rural,Comprehensive,1,10,572,1,21:39.1,Good,Yes,Rarely,Condo,23
+695,19,Male,25662,Married,,PhD,Self-Employed,24.97957953,Rural,Premium,1,1,834,8,21:39.2,Average,No,Daily,Condo,713
+696,31,Male,4692,Single,0,Master's,Employed,40.83635196,Suburban,Basic,0,9,359,1,21:39.3,Good,Yes,Weekly,House,1133
+697,58,Male,9073,Single,,PhD,Employed,22.7226054,Urban,Premium,0,14,602,8,21:39.2,Poor,Yes,Daily,Apartment,481
+698,37,Female,35178,Single,1,Bachelor's,Self-Employed,25.99100952,Urban,Premium,1,15,533,3,21:39.1,Good,Yes,Weekly,Apartment,494
+699,47,Male,7857,Divorced,0,High School,Unemployed,24.80243994,Rural,Basic,0,14,463,5,21:39.2,Poor,Yes,Rarely,Apartment,466
+700,37,Female,,Single,3,Bachelor's,,29.93614398,Rural,Comprehensive,0,9,457,5,21:39.2,Poor,Yes,Weekly,Condo,2401
+701,62,Female,4918,Single,1,Bachelor's,Self-Employed,18.88472759,Suburban,Basic,0,13,381,9,21:39.2,Poor,No,Daily,Condo,1203
+702,24,Male,73300,Single,2,Bachelor's,Self-Employed,6.906304075,Rural,Comprehensive,2,14,604,9,21:39.2,Average,No,Rarely,Condo,434
+703,26,Female,36274,Single,4,Bachelor's,Employed,9.89867107,Suburban,Premium,0,18,,7,21:39.1,Good,Yes,Weekly,Apartment,847
+704,49,Female,61550,Single,0,High School,Unemployed,38.82430733,Rural,Premium,,18,796,4,21:39.2,Average,No,Weekly,Apartment,364
+705,44,Male,1333,Married,2,Bachelor's,Employed,46.93393179,Rural,Basic,1,3,477,5,21:39.2,Good,No,Monthly,Apartment,562
+706,31,Male,3029,Divorced,3,PhD,Self-Employed,10.61933477,Suburban,Premium,0,6,631,5,21:39.1,Average,No,Rarely,Apartment,25
+707,64,Male,84311,Divorced,4,PhD,Unemployed,18.05813366,Suburban,Premium,,7,833,4,21:39.1,,Yes,Monthly,House,226
+708,47,Male,17963,Single,2,High School,,23.58185875,Urban,Basic,1,7,757,3,21:39.3,Good,Yes,Weekly,Condo,1081
+709,23,Female,1026,Single,1,Master's,,4.313900034,Suburban,Premium,2,16,796,5,21:39.3,Poor,No,Rarely,House,1743
+710,64,Female,15881,Divorced,2,Master's,,41.75374538,Suburban,Comprehensive,1,15,784,1,21:39.3,Good,No,Daily,House,82
+711,27,Female,53366,Single,1,High School,,27.25170729,Rural,Basic,1,7,341,2,21:39.2,Good,Yes,Monthly,Apartment,1099
+712,20,Male,14054,Married,1,High School,,38.92260088,Urban,Basic,,11,,9,21:39.2,Poor,Yes,Rarely,Apartment,724
+713,46,Female,27666,Divorced,4,Master's,Self-Employed,22.02783377,Urban,Basic,,18,433,8,21:39.1,,Yes,Rarely,Condo,818
+714,25,Female,18073,Single,0,PhD,Self-Employed,39.91875691,Suburban,Comprehensive,1,2,762,1,21:39.2,,No,Daily,Condo,2446
+715,52,Female,3941,Married,2,PhD,Employed,32.89251958,Rural,Comprehensive,1,2,431,9,21:39.1,,Yes,Weekly,Condo,573
+716,58,Female,8092,Divorced,,High School,,32.55646683,Suburban,Basic,1,16,544,1,21:39.2,Average,No,Monthly,House,917
+717,23,Male,17275,Married,1,Bachelor's,Unemployed,46.96678758,Urban,Comprehensive,2,5,609,7,21:39.3,Poor,No,Monthly,Condo,139
+718,57,Female,42435,Married,3,Master's,Unemployed,39.97620355,Urban,Basic,,17,329,4,21:39.2,Good,No,Daily,Condo,1136
+719,44,Male,23981,Single,3,Master's,Employed,27.29275845,Rural,Comprehensive,,12,596,3,21:39.3,Poor,Yes,Daily,Apartment,394
+720,39,Female,39109,Married,2,Bachelor's,Unemployed,50.45734031,Suburban,Comprehensive,2,15,379,5,21:39.2,Good,Yes,Daily,House,1375
+721,36,Male,,Married,1,PhD,Unemployed,16.83860665,Suburban,Comprehensive,1,4,447,2,21:39.1,Average,Yes,Monthly,Apartment,24
+722,54,Female,17579,Single,3,PhD,,27.81405798,Suburban,Basic,0,15,657,7,21:39.2,Average,Yes,Weekly,Apartment,543
+723,61,Female,125576,Divorced,0,PhD,Employed,20.09513444,Suburban,Basic,0,0,553,1,21:39.1,Good,No,Monthly,Apartment,196
+724,30,Male,29137,Married,0,PhD,,39.09814003,Suburban,Basic,,3,847,8,21:39.2,Good,Yes,Daily,Apartment,1383
+725,64,Female,3123,Married,3,PhD,Employed,34.59324396,Urban,Basic,3,11,826,6,21:39.3,Average,Yes,Monthly,Condo,929
+726,41,Female,34409,Married,4,Bachelor's,Employed,,Rural,Premium,,1,573,5,21:39.2,Average,Yes,Weekly,House,886
+727,33,Female,56611,Single,0,Master's,Unemployed,11.05290025,Suburban,Premium,3,15,486,6,21:39.2,,Yes,Daily,Apartment,614
+728,43,Female,21441,Divorced,2,Master's,Employed,26.84627782,Urban,Premium,2,14,637,2,21:39.2,Good,No,Weekly,House,1641
+729,49,Male,394,Married,3,Bachelor's,Employed,22.31394588,Rural,Basic,0,4,731,5,21:39.2,Average,No,Monthly,House,1579
+730,18,Female,18051,Single,,High School,Unemployed,30.95549467,Urban,Comprehensive,,15,691,3,21:39.2,Average,Yes,Rarely,Apartment,1275
+731,63,Male,45999,Married,4,Bachelor's,Employed,27.81384665,Rural,Premium,,13,781,7,21:39.2,Good,Yes,Rarely,House,1540
+732,28,Female,3058,Single,0,Bachelor's,Self-Employed,31.39011778,Suburban,Premium,2,11,,7,21:39.2,Poor,No,Rarely,Condo,39
+733,38,Female,6095,Divorced,3,Master's,Employed,29.9385981,Suburban,Comprehensive,0,10,772,7,21:39.1,Poor,Yes,Daily,Condo,942
+734,30,Female,6095,Divorced,2,Bachelor's,Employed,7.942224411,Suburban,Comprehensive,0,14,684,2,21:39.1,Average,Yes,Daily,House,573
+735,20,Male,37088,Married,,PhD,Self-Employed,9.933011798,Urban,Premium,0,14,705,9,21:39.3,Good,No,Monthly,Apartment,427
+736,29,Male,6973,Married,1,Bachelor's,Self-Employed,12.87898763,Rural,Premium,1,19,651,8,21:39.1,Good,Yes,Rarely,Apartment,1326
+737,52,Male,55733,Divorced,2,Bachelor's,Unemployed,20.38287021,Urban,Premium,1,1,386,2,21:39.2,Average,Yes,Monthly,Apartment,1811
+738,59,Male,5872,Divorced,4,High School,Self-Employed,21.0846094,Suburban,Basic,0,2,,7,21:39.3,Average,Yes,Monthly,House,821
+739,46,Male,17078,Married,2,Bachelor's,,47.25543219,Rural,Premium,,15,559,2,21:39.3,Good,No,Rarely,House,1322
+740,51,Female,43848,Single,3,PhD,Unemployed,22.98117743,Rural,Comprehensive,1,6,720,7,21:39.1,Poor,No,Weekly,Apartment,3341
+741,59,Male,15774,Married,0,PhD,Unemployed,43.25667718,Rural,Comprehensive,0,16,499,8,21:39.2,Good,Yes,Rarely,Condo,552
+742,23,Female,16989,Married,1,PhD,Self-Employed,24.89836502,Rural,Comprehensive,,7,566,5,21:39.1,Good,Yes,Monthly,Condo,1693
+743,33,Male,5843,Single,4,Master's,Self-Employed,17.14493947,Urban,Basic,0,2,832,2,21:39.1,,No,Monthly,Apartment,1225
+744,41,Female,33600,Divorced,0,High School,,16.94610803,Rural,Premium,2,14,625,8,21:39.2,Good,Yes,Monthly,Condo,528
+745,22,Female,126528,Divorced,2,PhD,,21.47206602,Rural,Basic,2,0,499,5,21:39.2,,No,Rarely,Condo,871
+746,24,Female,18679,Single,4,PhD,Unemployed,14.72286182,Urban,Basic,,16,,4,21:39.1,Good,Yes,Monthly,Apartment,1218
+747,34,Female,,Married,1,Master's,Unemployed,3.85879298,Rural,Premium,,15,733,9,21:39.3,Average,Yes,Daily,Condo,111
+748,46,Female,10071,Married,1,Master's,Unemployed,40.2614785,Rural,Comprehensive,,0,635,2,21:39.1,Average,Yes,Weekly,Condo,1845
+749,37,Female,5825,Married,,Master's,Self-Employed,50.86530531,Rural,Basic,,9,779,1,21:39.2,Average,No,Monthly,Apartment,2788
+750,51,Male,16072,Married,1,Bachelor's,Self-Employed,43.0112351,Rural,Premium,,3,695,2,21:39.2,Good,No,Monthly,Apartment,182
+751,49,Male,46267,Divorced,,High School,Self-Employed,16.35548097,Urban,Premium,1,9,697,6,21:39.1,Good,No,Rarely,Condo,635
+752,27,Male,61925,Married,1,High School,,48.26509628,Urban,Basic,2,18,449,7,21:39.2,Poor,No,Weekly,House,1489
+753,51,Male,857,Divorced,0,High School,,22.82636469,Rural,Comprehensive,2,2,706,8,21:39.1,Good,No,Rarely,Condo,963
+754,24,Male,29063,Divorced,3,PhD,,44.73887188,Suburban,Comprehensive,1,10,745,1,21:39.3,Average,Yes,Weekly,Apartment,707
+755,35,Male,44650,Divorced,1,High School,Unemployed,44.86878655,Suburban,Basic,1,3,647,9,21:39.2,Average,Yes,Weekly,Condo,1407
+756,64,Male,994,Married,,High School,Self-Employed,28.89522233,Suburban,Premium,1,2,734,6,21:39.1,Poor,Yes,Monthly,House,110
+757,23,Female,35754,Single,1,High School,Employed,37.71906343,Rural,Premium,1,13,721,9,21:39.2,Average,Yes,Weekly,Condo,584
+758,37,Female,87766,Single,2,High School,Employed,26.15493918,Urban,Premium,2,4,,2,21:39.2,,Yes,Rarely,House,48
+759,20,Male,16582,Single,2,Bachelor's,,35.85742925,Urban,Basic,,16,442,6,21:39.1,Poor,No,Monthly,Condo,1231
+760,22,Female,2777,Married,0,Master's,Employed,43.03844627,Rural,Comprehensive,1,4,796,9,21:39.1,Average,Yes,Monthly,House,2196
+761,37,Female,31508,Divorced,4,Master's,Unemployed,16.17592593,Rural,Comprehensive,,3,612,1,21:39.2,Good,No,Weekly,House,112
+762,31,Female,34,Married,3,Bachelor's,Self-Employed,47.05835338,Rural,Basic,0,14,686,7,21:39.3,Average,No,Rarely,Apartment,817
+763,41,Female,2788,Divorced,4,Master's,Unemployed,16.68943551,Suburban,Basic,0,3,552,8,21:39.1,Average,Yes,Rarely,Condo,130
+764,50,Male,27350,Divorced,4,Bachelor's,Self-Employed,31.89419764,Rural,Comprehensive,0,13,537,4,21:39.1,Poor,Yes,Daily,Apartment,29
+765,37,Female,2562,Married,1,PhD,Self-Employed,32.47149701,Rural,Basic,0,11,468,2,21:39.2,Average,Yes,Daily,Condo,2734
+766,50,Male,9081,Divorced,1,Master's,Employed,21.43394476,Suburban,Comprehensive,,16,767,8,21:39.3,Good,Yes,Rarely,Condo,587
+767,50,Female,27625,Divorced,3,PhD,,48.28125829,Rural,Premium,0,8,351,6,21:39.1,,No,Daily,House,572
+768,58,Female,6972,Married,0,High School,Self-Employed,18.62372018,Suburban,Comprehensive,0,17,393,3,21:39.1,Average,No,Daily,House,618
+769,26,Male,36102,Single,1,Master's,,24.05305409,Suburban,Basic,3,19,566,6,21:39.1,Average,No,Weekly,Apartment,923
+770,38,Female,3483,Married,1,PhD,Unemployed,6.817708829,Urban,Comprehensive,3,15,,1,21:39.1,Average,No,Rarely,Apartment,1488
+771,22,Male,6988,Divorced,2,Master's,Unemployed,29.75004655,Rural,Basic,0,2,637,7,21:39.2,Average,No,Monthly,Condo,811
+772,,Female,15983,Divorced,4,PhD,Self-Employed,37.2816098,Urban,Comprehensive,2,6,,2,21:39.1,Poor,Yes,Rarely,House,1460
+773,30,Female,91021,Married,2,Bachelor's,Employed,45.06885031,Rural,Premium,,5,387,7,21:39.1,Average,Yes,Weekly,Condo,1304
+774,46,Male,855,Divorced,,High School,,41.62405052,Suburban,Premium,,13,365,8,21:39.1,Poor,No,Monthly,Condo,2433
+775,46,Male,25585,Married,2,Bachelor's,,50.42021752,Rural,Comprehensive,1,16,797,2,21:39.1,Average,Yes,Daily,House,1033
+776,28,Male,12042,Divorced,0,High School,,52.16643948,Urban,Basic,0,5,725,8,21:39.2,Average,No,Monthly,House,2047
+777,55,Male,1029,Married,3,Bachelor's,Employed,,Rural,Comprehensive,1,17,683,1,21:39.2,Poor,No,Monthly,House,731
+778,48,Female,6872,Divorced,4,Bachelor's,,19.62272831,Urban,Premium,1,7,818,5,21:39.2,Poor,Yes,Daily,House,1231
+779,51,Female,11881,Married,2,Bachelor's,Unemployed,19.08617619,Rural,Basic,1,9,,3,21:39.1,Average,Yes,Weekly,House,784
+780,30,Female,95533,Single,1,Bachelor's,Unemployed,7.826352894,Suburban,Premium,1,9,377,7,21:39.1,Poor,Yes,Weekly,Condo,767
+781,42,Male,24379,Married,0,PhD,Unemployed,11.47301393,Suburban,Premium,1,11,658,1,21:39.1,Average,Yes,Weekly,Apartment,764
+782,35,Male,31002,Divorced,0,Master's,Unemployed,5.270169598,Urban,Basic,0,16,718,1,21:39.1,Average,Yes,Daily,House,1828
+783,18,Female,61441,Married,4,PhD,Employed,29.71794888,Rural,Basic,,6,685,1,21:39.3,Average,No,Monthly,House,254
+784,64,Female,16102,Divorced,1,PhD,,50.53592865,Rural,Comprehensive,1,15,752,2,21:39.2,Average,No,Rarely,House,602
+785,58,Female,7095,Single,1,Master's,Employed,23.40103837,Urban,Premium,,17,757,7,21:39.1,Average,Yes,Daily,Apartment,684
+786,43,Male,27383,Single,,Master's,Unemployed,32.91859223,Urban,Comprehensive,,8,808,9,21:39.1,Poor,Yes,Weekly,House,1111
+787,55,Male,80190,Divorced,,High School,,11.25139422,Suburban,Comprehensive,,19,569,8,21:39.1,Good,Yes,Weekly,Condo,357
+788,22,Male,2853,Married,2,Bachelor's,Unemployed,40.04251978,Suburban,Basic,1,4,381,4,21:39.1,Poor,Yes,Weekly,Apartment,944
+789,59,Male,24891,Divorced,,PhD,Unemployed,8.442163103,Urban,Basic,0,16,459,5,21:39.1,Good,Yes,Daily,House,1373
+790,58,Male,40802,Single,4,High School,,21.31096523,Suburban,Premium,1,11,554,9,21:39.1,Good,No,Monthly,Condo,1706
+791,21,Male,84965,Married,2,Master's,Unemployed,13.74908805,Suburban,Basic,,6,454,5,21:39.2,Poor,No,Rarely,House,766
+792,19,Female,2023,Single,3,Bachelor's,Employed,27.14984946,Rural,Premium,0,7,481,1,21:39.1,Average,Yes,Monthly,Condo,1636
+793,59,Male,30292,Single,4,Bachelor's,Self-Employed,23.477939,Rural,Comprehensive,0,8,626,2,21:39.1,Average,No,Daily,House,1605
+794,42,Female,,Divorced,2,Master's,Employed,28.73741865,Suburban,Comprehensive,0,4,,5,21:39.2,,Yes,Daily,Apartment,2939
+795,61,Female,18589,Married,0,Master's,Self-Employed,5.715933135,Urban,Premium,2,4,,6,21:39.1,Good,No,Rarely,House,821
+796,60,Female,10071,Divorced,2,PhD,Self-Employed,34.17275725,Urban,Comprehensive,2,15,486,6,21:39.1,,Yes,Daily,Condo,3330
+797,38,Female,83088,Single,,High School,Unemployed,30.89569143,Rural,Comprehensive,1,7,805,8,21:39.2,,Yes,Daily,Apartment,1838
+798,28,Female,913,Divorced,1,PhD,Unemployed,6.817706798,Suburban,Premium,2,0,,8,21:39.2,Average,No,Weekly,House,710
+799,51,Female,3466,Married,,High School,Self-Employed,33.44140912,Suburban,Comprehensive,,0,647,8,21:39.2,,No,Rarely,Condo,549
+800,52,Male,23456,Divorced,3,High School,Self-Employed,35.95822741,Rural,Comprehensive,2,14,577,2,21:39.2,Average,Yes,Daily,House,657
+801,37,Male,1784,Single,1,Bachelor's,Self-Employed,47.59984435,Suburban,Comprehensive,2,11,456,2,21:39.3,Average,Yes,Rarely,Condo,2100
+802,21,Female,18282,Single,2,High School,Employed,45.28442339,Rural,Basic,3,5,644,9,21:39.3,Average,No,Rarely,House,717
+803,63,Male,29415,Single,1,Master's,,,Rural,Premium,,19,469,9,21:39.2,Good,No,Weekly,Apartment,1378
+804,64,Female,64857,Single,0,PhD,Unemployed,5.959314279,Suburban,Comprehensive,0,13,715,8,21:39.1,Poor,Yes,Monthly,Apartment,379
+805,21,Female,2541,Single,,PhD,Self-Employed,26.89101273,Suburban,Premium,3,13,406,8,21:39.2,,Yes,Daily,House,1091
+806,45,Male,63715,Married,2,PhD,Employed,16.93300347,Rural,Premium,,1,607,3,21:39.2,Good,No,Rarely,House,3688
+807,45,Male,141161,Divorced,3,PhD,,29.44373291,Rural,Comprehensive,3,15,564,9,21:39.2,Poor,No,Daily,Apartment,310
+808,25,Male,13096,Divorced,3,PhD,,9.837453101,Urban,Premium,,3,501,1,21:39.2,,No,Rarely,Apartment,36
+809,23,Female,12094,Divorced,1,PhD,Unemployed,28.97611702,Rural,Comprehensive,1,14,845,1,21:39.3,Good,Yes,Weekly,Apartment,817
+810,25,Male,87873,Divorced,3,High School,Employed,17.81119188,Rural,Premium,1,5,397,8,21:39.3,Average,No,Rarely,Condo,492
+811,43,Female,8054,Divorced,0,Bachelor's,Self-Employed,12.84926913,Urban,Comprehensive,0,18,639,7,21:39.1,Good,Yes,Monthly,House,546
+812,21,Female,20797,Single,4,Bachelor's,Self-Employed,12.69356693,Rural,Basic,0,17,696,3,21:39.1,Poor,Yes,Rarely,Apartment,1584
+813,61,Female,117465,Divorced,,High School,Employed,50.32013351,Suburban,Premium,1,15,,7,21:39.3,,Yes,Monthly,Condo,1491
+814,21,Female,106792,Married,2,Master's,Employed,28.14789842,Urban,Premium,,15,423,7,21:39.2,Poor,No,Weekly,House,2766
+815,36,Male,16863,Single,1,Bachelor's,,16.24683568,Urban,Comprehensive,1,17,729,2,21:39.3,Good,Yes,Monthly,Condo,685
+816,43,Female,2452,Divorced,2,PhD,Employed,51.23158185,Urban,Premium,0,1,524,3,21:39.2,Poor,No,Daily,House,80
+817,20,Male,16339,Single,4,Bachelor's,,10.08649946,Rural,Comprehensive,0,14,508,8,21:39.2,Average,No,Monthly,Condo,921
+818,43,Female,40323,Divorced,2,Bachelor's,,31.91460535,Suburban,Basic,0,14,646,5,21:39.2,Average,No,Rarely,Condo,996
+819,52,Male,13982,Single,2,High School,Unemployed,41.83697171,Urban,Comprehensive,,2,417,6,21:39.1,Good,No,Weekly,Apartment,32
+820,62,Female,54560,Married,4,Master's,Employed,14.09603581,Suburban,Comprehensive,,16,361,9,21:39.2,Poor,No,Monthly,Apartment,2534
+821,55,Female,3904,Single,1,High School,Unemployed,20.6238807,Rural,Comprehensive,,13,721,1,21:39.2,Average,Yes,Weekly,Condo,23
+822,,Female,5541,Divorced,3,Master's,Self-Employed,18.83812853,Rural,Basic,0,15,761,6,21:39.2,Poor,Yes,Daily,Condo,468
+823,63,Female,15641,Married,2,PhD,Self-Employed,9.129983123,Urban,Premium,1,18,524,7,21:39.2,Poor,No,Rarely,Apartment,1182
+824,29,Female,2934,Single,1,Bachelor's,Employed,28.53915794,Rural,Premium,1,7,639,6,21:39.1,Average,Yes,Monthly,House,710
+825,55,Male,126626,Divorced,,High School,Employed,21.80790199,Rural,Basic,2,11,834,2,21:39.2,,No,Monthly,House,910
+826,29,Male,39149,Married,2,Bachelor's,Employed,15.0078255,Urban,Basic,,9,484,9,21:39.3,Average,Yes,Weekly,Apartment,53
+827,34,Male,38216,Married,4,Bachelor's,Unemployed,15.87837312,Suburban,Basic,1,14,,2,21:39.1,Good,Yes,Weekly,Condo,792
+828,22,Male,74988,Divorced,2,Master's,Employed,12.82447226,Rural,Comprehensive,3,4,,8,21:39.1,,No,Monthly,House,1140
+829,51,Male,42337,Divorced,2,High School,,15.81678983,Urban,Premium,1,18,,1,21:39.1,Good,Yes,Rarely,Apartment,1604
+830,57,Male,25558,Married,0,Master's,Employed,31.59762891,Rural,Comprehensive,,6,,8,21:39.1,Average,Yes,Weekly,House,817
+831,40,Male,16285,Single,1,Bachelor's,Employed,21.64396824,Urban,Basic,,18,,6,21:39.2,Good,No,Weekly,Apartment,26
+832,33,Male,34372,Divorced,2,Bachelor's,Self-Employed,6.788167768,Suburban,Premium,0,16,523,1,21:39.1,Poor,Yes,Monthly,Condo,1640
+833,39,Female,5829,Single,1,High School,Self-Employed,42.45219404,Urban,Comprehensive,,15,736,4,21:39.2,Average,Yes,Weekly,Condo,522
+834,40,Male,23407,Divorced,1,Master's,Employed,21.62596744,Urban,Comprehensive,1,9,518,8,21:39.3,Good,Yes,Monthly,Apartment,3633
+835,62,Male,18031,Married,2,Master's,Unemployed,5.293930682,Suburban,Premium,0,12,467,6,21:39.2,Average,No,Monthly,Apartment,959
+836,26,Male,45907,Single,0,Bachelor's,Self-Employed,27.82901347,Rural,Premium,,18,522,2,21:39.1,Average,Yes,Daily,Condo,992
+837,50,Male,132437,Divorced,1,PhD,,8.099578376,Rural,Comprehensive,1,7,454,5,21:39.1,Good,No,Daily,Condo,1562
+838,43,Male,3329,Single,2,PhD,Self-Employed,,Urban,Comprehensive,0,0,706,9,21:39.2,,Yes,Rarely,House,1150
+839,23,Male,17781,Single,0,PhD,Unemployed,11.51021964,Urban,Comprehensive,,5,437,2,21:39.2,Good,No,Daily,Condo,1150
+840,62,Male,10556,Single,4,Bachelor's,Employed,23.13553546,Rural,Basic,1,14,790,4,21:39.2,Average,Yes,Monthly,Apartment,1276
+841,44,Female,43886,Single,4,High School,Employed,29.82713652,Urban,Premium,0,15,782,4,21:39.1,Poor,Yes,Weekly,Condo,656
+842,30,Male,5877,Divorced,0,Bachelor's,Unemployed,19.2393259,Urban,Comprehensive,,2,694,7,21:39.2,Good,No,Rarely,Condo,905
+843,35,Male,27791,Divorced,3,PhD,,27.8450064,Rural,Premium,2,3,573,1,21:39.1,Poor,Yes,Daily,Apartment,939
+844,24,Male,5857,Divorced,3,Master's,Unemployed,21.97224957,Rural,Premium,0,17,418,4,21:39.1,Good,No,Weekly,House,2895
+845,30,Male,24997,Divorced,3,High School,Unemployed,51.95916178,Suburban,Comprehensive,0,2,699,5,21:39.1,Average,Yes,Weekly,Condo,1139
+846,42,Female,38775,Single,4,Bachelor's,,14.73212831,Rural,Basic,1,8,760,2,21:39.1,Average,No,Rarely,Condo,1140
+847,46,Female,17129,Married,3,Bachelor's,Unemployed,42.12107795,Suburban,Basic,1,9,571,8,21:39.3,Average,Yes,Rarely,Apartment,2340
+848,43,Male,29784,Divorced,0,PhD,Unemployed,31.85119671,Rural,Premium,1,15,,3,21:39.1,Average,Yes,Rarely,House,665
+849,45,Male,60760,Single,4,Bachelor's,Employed,23.18685848,Urban,Basic,1,11,331,6,21:39.2,Good,No,Weekly,House,3188
+850,40,Female,24604,Divorced,1,High School,Employed,28.86903268,Rural,Comprehensive,,4,778,4,21:39.1,Poor,Yes,Monthly,Apartment,1400
+851,27,Female,15126,Divorced,3,High School,,4.524534963,Suburban,Comprehensive,1,15,,3,21:39.1,Good,Yes,Rarely,House,862
+852,24,Male,52323,Married,,High School,Unemployed,19.50246435,Suburban,Premium,0,9,403,3,21:39.2,Poor,No,Monthly,Condo,821
+853,31,Male,131733,Divorced,3,Bachelor's,,,Rural,Basic,2,9,449,6,21:39.1,Good,No,Weekly,Apartment,1631
+854,48,Female,16038,Married,3,Bachelor's,Employed,11.01582346,Suburban,Comprehensive,1,10,563,6,21:39.1,Poor,Yes,Monthly,Condo,304
+855,45,Female,45122,Single,0,PhD,Self-Employed,7.560825723,Rural,Premium,,2,830,1,21:39.2,Good,Yes,Daily,House,2949
+856,57,Male,34111,Single,,Master's,Self-Employed,36.47235042,Rural,Premium,,3,759,6,21:39.1,Good,Yes,Rarely,Condo,557
+857,21,Male,,Single,4,PhD,Unemployed,,Urban,Comprehensive,1,0,449,9,21:39.2,Poor,No,Weekly,House,596
+858,33,Female,3547,Single,4,Master's,,26.39341091,Suburban,Comprehensive,1,2,316,2,21:39.2,Good,No,Daily,House,1131
+859,27,Male,38323,Single,2,PhD,Unemployed,22.4784706,Suburban,Basic,0,11,,9,21:39.2,Good,No,Weekly,Apartment,40
+860,61,Male,10580,Divorced,1,PhD,Unemployed,30.89842248,Rural,Premium,0,6,573,3,21:39.2,Poor,Yes,Rarely,Apartment,1970
+861,41,Female,12981,Divorced,2,High School,Unemployed,30.98792408,Urban,Comprehensive,1,8,559,9,21:39.2,Poor,No,Weekly,Apartment,2129
+862,38,Female,947,Single,3,High School,Employed,17.50226774,Suburban,Premium,0,5,693,9,21:39.2,Average,Yes,Rarely,House,171
+863,23,Male,115759,Divorced,0,Master's,,14.74585585,Urban,Premium,1,12,329,9,21:39.2,Good,Yes,Rarely,Apartment,1380
+864,27,Female,2667,Married,0,High School,Employed,45.49765167,Rural,Premium,1,8,,6,21:39.3,Poor,Yes,Monthly,Condo,2313
+865,32,Female,25168,Married,0,Bachelor's,,32.719105,Suburban,Basic,3,15,,7,21:39.2,Good,No,Monthly,Apartment,3122
+866,41,Male,3891,Single,3,PhD,Employed,47.79825071,Rural,Premium,0,10,586,9,21:39.3,,Yes,Rarely,Apartment,130
+867,39,Male,1668,Single,,PhD,,23.47142964,Suburban,Comprehensive,,9,710,3,21:39.1,Good,No,Monthly,Apartment,3214
+868,47,Male,988,Married,1,High School,Employed,40.08633302,Rural,Basic,,4,505,1,21:39.2,Good,No,Monthly,Condo,1878
+869,64,Female,34015,Single,2,High School,Self-Employed,13.77132925,Suburban,Basic,,15,797,5,21:39.2,Average,No,Weekly,House,1218
+870,18,Male,13672,Divorced,,Master's,Employed,26.45297742,Suburban,Basic,0,15,567,6,21:39.2,Good,Yes,Rarely,Condo,2678
+871,47,Female,18073,Divorced,2,Master's,Self-Employed,32.57934076,Urban,Basic,,14,,1,21:39.1,Average,Yes,Weekly,House,635
+872,60,Male,174,Married,,PhD,Self-Employed,14.90727734,Urban,Comprehensive,0,0,360,1,21:39.2,Poor,Yes,Daily,Apartment,876
+873,29,Male,25962,Divorced,4,PhD,Unemployed,13.91242229,Urban,Basic,0,6,,6,21:39.2,Poor,Yes,Monthly,Condo,495
+874,29,Female,52287,Divorced,,Bachelor's,Unemployed,10.78866011,Suburban,Comprehensive,2,16,437,8,21:39.1,Poor,No,Weekly,Condo,2799
+875,57,Female,43738,,4,PhD,Employed,32.08478636,Rural,Premium,0,0,692,4,21:39.2,Good,No,Weekly,Condo,3870
+876,53,Male,25845,Divorced,0,High School,,17.9572415,Urban,Premium,,10,825,8,21:39.1,Poor,No,Weekly,House,584
+877,42,Male,34207,Married,3,PhD,Unemployed,26.81333355,Rural,Comprehensive,,0,755,9,21:39.2,Average,No,Daily,House,1029
+878,51,Male,7076,Single,0,PhD,,13.51991092,Urban,Premium,,19,802,4,21:39.1,Average,No,Weekly,Condo,1181
+879,41,Male,10984,Divorced,4,Master's,Self-Employed,18.59555325,Suburban,Comprehensive,,16,699,3,21:39.2,Good,Yes,Rarely,Apartment,1344
+880,25,Male,18110,Married,3,PhD,Self-Employed,21.61603627,Suburban,Comprehensive,1,11,710,6,21:39.1,Average,Yes,Daily,Condo,1068
+881,41,Female,25981,Divorced,1,Master's,Self-Employed,31.98309216,Rural,Premium,2,3,554,1,21:39.2,Poor,Yes,Monthly,House,542
+882,51,Male,1250,Married,2,High School,,37.85731843,Suburban,Premium,1,13,302,5,21:39.2,Average,Yes,Monthly,House,1282
+883,45,Female,21883,Divorced,3,High School,Unemployed,33.8693571,Urban,Basic,0,18,682,8,21:39.1,Average,No,Rarely,Condo,1367
+884,48,Female,11429,Single,2,High School,,43.837345,Rural,Basic,0,4,588,7,21:39.2,,Yes,Monthly,Apartment,955
+885,33,Female,29365,Single,4,Master's,Self-Employed,51.25672611,Suburban,Basic,,12,801,9,21:39.2,Average,Yes,Rarely,Apartment,1552
+886,27,Male,8078,Single,3,Bachelor's,Self-Employed,20.908633,Suburban,Premium,,4,834,8,21:39.2,Average,No,Daily,Apartment,2226
+887,30,Female,4862,Married,2,High School,,,Urban,Comprehensive,1,17,495,6,21:39.1,Poor,Yes,Rarely,House,2133
+888,56,Female,53820,Single,3,High School,,17.73578493,Rural,Premium,2,3,641,7,21:39.1,Average,Yes,Monthly,Apartment,3111
+889,37,Male,40081,Single,1,High School,,15.16442381,Suburban,Comprehensive,,14,350,5,21:39.3,Poor,No,Daily,Condo,2519
+890,42,Male,3565,Married,4,PhD,,33.89856277,Rural,Basic,,3,829,8,21:39.1,Good,No,Weekly,House,2172
+891,61,Male,14803,Divorced,0,High School,,19.85700392,Urban,Basic,,5,608,7,21:39.2,Average,Yes,Weekly,House,731
+892,54,Male,53518,Single,1,Bachelor's,Unemployed,16.37777539,Rural,Comprehensive,2,5,786,8,21:39.1,Average,Yes,Monthly,House,39
+893,29,Female,55730,Divorced,3,High School,,51.74317878,Urban,Comprehensive,1,8,,8,21:39.2,Good,No,Rarely,House,629
+894,29,Female,52812,Married,3,Bachelor's,Unemployed,51.86989407,Rural,Basic,,13,798,3,21:39.1,Average,No,Rarely,Condo,495
+895,23,Male,8987,Married,1,PhD,Employed,20.42232409,Urban,Premium,,14,376,3,21:39.2,Average,Yes,Monthly,Condo,2972
+896,28,Female,2820,Divorced,0,Bachelor's,Employed,30.17351349,Rural,Comprehensive,0,19,318,8,21:39.2,Average,No,Daily,House,588
+897,50,Female,2480,Married,3,Bachelor's,,23.17404924,Suburban,Comprehensive,0,8,711,8,21:39.1,Poor,No,Rarely,Condo,30
+898,44,Female,113066,Single,0,PhD,,34.12707616,Suburban,Comprehensive,2,1,308,5,21:39.2,Good,Yes,Rarely,House,724
+899,34,Female,33113,Married,4,Master's,Unemployed,19.7544659,Rural,Premium,1,17,704,5,21:39.2,Poor,Yes,Weekly,House,581
+900,55,Female,25166,Divorced,2,PhD,Self-Employed,7.898295122,Rural,Basic,1,17,826,5,21:39.1,Good,Yes,Weekly,House,1686
+901,20,Male,33294,Single,2,High School,Self-Employed,49.92797478,Rural,Basic,1,9,772,5,21:39.1,Average,Yes,Rarely,House,517
+902,24,Male,39731,Married,2,High School,Employed,19.91313131,Urban,Comprehensive,1,0,848,1,21:39.1,Good,No,Weekly,House,2266
+903,59,Male,46345,Divorced,3,Master's,Unemployed,45.56732051,Urban,Basic,1,15,557,3,21:39.1,Poor,No,Weekly,Apartment,1246
+904,62,Male,4020,Divorced,2,PhD,Unemployed,,Urban,Basic,,17,744,5,21:39.3,Average,Yes,Weekly,Apartment,24
+905,58,Male,4045,Single,1,High School,,22.18884122,Urban,Premium,1,1,,2,21:39.3,Good,No,Rarely,Condo,2301
+906,41,Male,1288,Divorced,1,Master's,Employed,28.62276144,Urban,Comprehensive,2,7,,4,21:39.1,Average,No,Monthly,Apartment,391
+907,54,Male,15963,Divorced,0,Master's,,11.79445774,Suburban,Comprehensive,,1,681,5,21:39.2,Average,Yes,Weekly,House,391
+908,33,Female,36733,Single,4,PhD,Unemployed,40.57650815,Urban,Comprehensive,0,8,,8,21:39.1,Good,Yes,Weekly,Apartment,1080
+909,30,Male,16447,Single,2,Master's,Unemployed,26.31932916,Suburban,Comprehensive,1,7,492,9,21:39.3,Average,Yes,Daily,Apartment,686
+910,29,Male,58102,Married,2,Bachelor's,Employed,23.96550407,Suburban,Comprehensive,2,12,,1,21:39.2,Average,No,Daily,House,41
+911,27,Male,39724,Divorced,3,PhD,,14.67390462,Suburban,Premium,,7,727,2,21:39.3,Poor,No,Daily,House,1093
+912,51,Female,20709,Single,0,Bachelor's,Employed,22.31153054,Suburban,Comprehensive,1,12,641,5,21:39.2,,Yes,Monthly,Condo,37
+913,35,Female,31541,Single,,Bachelor's,Self-Employed,6.084838942,Rural,Comprehensive,,2,420,8,21:39.2,,Yes,Daily,House,2110
+914,22,Female,7503,Single,2,PhD,Employed,22.91877761,Urban,Premium,,19,787,4,21:39.1,Average,No,Rarely,Condo,273
+915,32,Female,2965,Divorced,0,High School,,,Suburban,Basic,1,7,706,6,21:39.2,Poor,Yes,Rarely,Apartment,1044
+916,41,Male,60543,Married,3,Bachelor's,Unemployed,29.78845795,Suburban,Comprehensive,0,10,680,9,21:39.2,Poor,Yes,Weekly,House,282
+917,37,Male,25066,Married,4,PhD,Unemployed,17.59399704,Rural,Comprehensive,0,0,588,3,21:39.2,Average,No,Daily,Apartment,1281
+918,46,Female,3718,Married,2,Master's,,21.41003251,Urban,Basic,,9,472,3,21:39.1,Poor,No,Monthly,Apartment,1377
+919,39,Male,5856,Divorced,1,High School,Self-Employed,,Rural,Comprehensive,2,16,447,5,21:39.1,Average,No,Monthly,House,1722
+920,39,Male,30333,Single,1,Bachelor's,Employed,47.92669135,Urban,Basic,2,2,478,2,21:39.2,Average,Yes,Monthly,House,839
+921,46,Male,27863,Married,4,High School,Self-Employed,25.88143476,Suburban,Basic,,15,783,8,21:39.1,Poor,Yes,Daily,House,1661
+922,56,Female,10613,Divorced,3,Master's,Self-Employed,42.82757179,Suburban,Basic,0,6,608,2,21:39.3,Poor,Yes,Weekly,Apartment,2060
+923,22,Female,5718,Divorced,0,Master's,,28.15809028,Rural,Premium,2,17,681,8,21:39.1,Good,Yes,Rarely,House,1320
+924,34,Male,6957,Married,4,Bachelor's,,12.41702992,Rural,Comprehensive,0,17,,1,21:39.2,Poor,Yes,Monthly,Apartment,648
+925,62,Female,18953,Single,3,Master's,Self-Employed,25.90732575,Suburban,Premium,2,2,601,7,21:39.3,Average,Yes,Monthly,House,177
+926,27,Female,5877,Single,3,High School,Unemployed,35.53384932,Suburban,Basic,1,2,,6,21:39.1,Average,No,Weekly,House,603
+927,30,Female,17891,Divorced,1,High School,,28.00649986,Rural,Basic,0,15,821,2,21:39.2,Poor,Yes,Weekly,House,534
+928,20,Female,14861,Divorced,0,Master's,Self-Employed,16.63838294,Rural,Comprehensive,1,4,686,4,21:39.1,Good,No,Rarely,Apartment,1493
+929,34,Female,29173,Divorced,2,Master's,Unemployed,29.51702829,Urban,Comprehensive,,16,521,8,21:39.2,Average,No,Monthly,House,772
+930,20,Female,14058,Married,,PhD,Self-Employed,20.81225524,Urban,Comprehensive,,10,653,6,21:39.2,Poor,Yes,Weekly,Condo,1613
+931,42,Female,77933,Single,0,PhD,Unemployed,7.882163802,Suburban,Premium,2,5,,5,21:39.1,Good,No,Weekly,Condo,2578
+932,57,Female,21598,Married,3,PhD,Self-Employed,32.8208502,Rural,Premium,1,10,558,9,21:39.2,Good,No,Daily,Condo,2682
+933,35,Male,8051,Married,3,PhD,Self-Employed,8.639081301,Urban,Comprehensive,0,19,706,8,21:39.1,Poor,Yes,Weekly,Apartment,663
+934,40,Female,3978,Single,0,Bachelor's,Self-Employed,44.97959131,Rural,Premium,0,9,538,1,21:39.1,Good,No,Weekly,Condo,2048
+935,62,Male,82546,Single,,PhD,,13.73086536,Rural,Premium,2,14,586,2,21:39.2,Poor,No,Rarely,Condo,2714
+936,34,Male,50958,Married,0,PhD,Unemployed,50.13489981,Urban,Comprehensive,1,12,407,7,21:39.1,Average,No,Rarely,House,882
+937,41,Female,5871,Married,3,High School,Self-Employed,9.965685627,Urban,Premium,1,2,748,6,21:39.3,Good,No,Rarely,House,1272
+938,35,Male,6994,Married,3,Bachelor's,Unemployed,47.91686591,Suburban,Premium,2,9,655,6,21:39.1,Poor,Yes,Daily,Condo,837
+939,40,Male,64583,Married,4,High School,Self-Employed,38.80221259,Urban,Comprehensive,,0,301,3,21:39.2,Average,Yes,Weekly,House,1854
+940,36,Female,10862,Married,2,PhD,Self-Employed,31.77444615,Suburban,Premium,,0,641,9,21:39.2,Good,Yes,Monthly,House,1761
+941,54,Male,34374,Divorced,,Master's,Unemployed,48.44487631,Rural,Premium,1,1,508,4,21:39.1,,Yes,Daily,Condo,3733
+942,25,Female,18341,Single,0,High School,Employed,13.14106007,Suburban,Premium,1,9,476,2,21:39.1,Poor,No,Rarely,House,1755
+943,62,Male,4541,Divorced,1,High School,Self-Employed,35.9069236,Suburban,Premium,,18,718,3,21:39.3,Good,No,Weekly,House,2768
+944,41,Female,6826,Single,4,Bachelor's,Unemployed,50.92925143,Urban,Premium,,15,821,2,21:39.2,Average,No,Rarely,Condo,483
+945,53,Female,17676,Single,4,Bachelor's,,50.51944059,Urban,Comprehensive,2,14,491,5,21:39.2,Average,Yes,Rarely,Apartment,522
+946,47,Female,72682,Single,,PhD,,33.9679137,Urban,Comprehensive,3,12,507,2,21:39.3,Poor,No,Weekly,House,416
+947,52,Male,25495,Divorced,4,Bachelor's,Employed,40.06640325,Urban,Basic,0,11,687,5,21:39.1,Average,No,Monthly,House,1517
+948,39,Male,13981,Single,0,Bachelor's,,9.988942289,Suburban,Premium,0,7,784,3,21:39.1,Good,Yes,Daily,Condo,589
+949,21,Male,14961,Married,3,Bachelor's,,36.81734112,Rural,Premium,,17,513,9,21:39.1,Average,Yes,Rarely,House,1640
+950,38,Male,657,Married,3,PhD,Unemployed,13.55174967,Rural,Basic,1,11,469,3,21:39.2,Good,Yes,Daily,Condo,691
+951,62,Male,47761,Married,3,PhD,Self-Employed,43.94746837,Rural,Comprehensive,,6,607,4,21:39.2,Average,Yes,Monthly,Condo,119
+952,52,Male,4077,Divorced,1,Bachelor's,Unemployed,30.1666824,Urban,Basic,1,14,513,4,21:39.2,Poor,Yes,Rarely,House,1841
+953,21,Female,38612,Married,4,Bachelor's,Employed,23.45132551,Rural,Premium,,1,725,8,21:39.3,Poor,Yes,Monthly,House,2421
+954,54,Female,23981,Divorced,1,High School,,20.14056915,Rural,Premium,0,3,,5,21:39.1,Good,Yes,Daily,Apartment,1207
+955,53,Male,58847,Divorced,,PhD,,9.534284234,Rural,Comprehensive,,7,492,9,21:39.3,Good,Yes,Weekly,Apartment,2053
+956,33,Male,39098,Single,3,High School,Unemployed,22.23882943,Rural,Comprehensive,1,16,807,1,21:39.2,Average,No,Weekly,Condo,669
+957,62,Male,32282,Married,2,High School,,11.25555012,Rural,Basic,,7,609,1,21:39.2,Poor,No,Daily,Condo,563
+958,48,Female,20982,Married,,PhD,Employed,21.26169969,Urban,Basic,,9,774,7,21:39.2,Average,Yes,Rarely,House,487
+959,51,Female,18671,Single,4,High School,Unemployed,22.56893388,Suburban,Premium,0,5,773,2,21:39.1,Good,No,Weekly,Condo,1383
+960,55,Female,132925,,3,Bachelor's,Self-Employed,35.50179943,Urban,Comprehensive,3,9,657,4,21:39.2,Poor,No,Weekly,Apartment,705
+961,48,Female,1807,Married,4,PhD,Employed,30.35795119,Rural,Comprehensive,0,14,748,5,21:39.2,Good,No,Daily,House,2213
+962,26,Male,38791,Single,2,High School,Employed,24.24687714,Suburban,Comprehensive,1,8,546,7,21:39.2,Good,Yes,Daily,House,2057
+963,26,Male,20996,Married,,PhD,Self-Employed,32.80349264,Urban,Basic,1,5,625,5,21:39.1,Poor,No,Weekly,Apartment,1848
+964,23,Female,66744,Single,1,PhD,Unemployed,52.69276526,Urban,Basic,3,8,824,9,21:39.1,Good,Yes,Weekly,House,643
+965,58,Female,27961,Single,,Bachelor's,Self-Employed,30.89070618,Suburban,Basic,,13,810,9,21:39.2,Poor,No,Daily,Condo,1077
+966,64,Female,15962,Divorced,1,PhD,,41.57092391,Rural,Comprehensive,1,11,677,2,21:39.1,Good,Yes,Rarely,Apartment,961
+967,64,Male,44737,Single,4,Master's,,19.92464442,Suburban,Comprehensive,1,8,706,5,21:39.2,Poor,Yes,Rarely,Apartment,479
+968,33,Female,7926,Divorced,4,Master's,Employed,22.75682258,Urban,Comprehensive,,19,494,2,21:39.1,Average,No,Weekly,Apartment,714
+969,50,Female,9931,Single,4,Bachelor's,Employed,23.67349989,Urban,Basic,0,8,511,7,21:39.2,Average,Yes,Monthly,Apartment,723
+970,28,Male,134587,Married,1,PhD,Unemployed,47.93460499,Urban,Comprehensive,1,14,402,1,21:39.2,Poor,No,Weekly,Apartment,442
+971,19,Male,82497,Single,3,PhD,,19.53929761,Rural,Basic,2,4,426,2,21:39.1,Good,No,Daily,House,1647
+972,25,Female,108418,Single,4,Master's,Self-Employed,12.60773575,Urban,Basic,2,2,404,8,21:39.3,Average,Yes,Monthly,House,1369
+973,49,Female,1698,Single,3,High School,Employed,13.75141887,Rural,Comprehensive,,13,553,7,21:39.2,Good,Yes,Monthly,Apartment,2353
+974,23,Female,90884,Divorced,4,PhD,Self-Employed,11.95828908,Urban,Basic,,1,394,3,21:39.3,Poor,No,Daily,House,904
+975,32,Female,40552,Single,4,Bachelor's,Employed,17.79366449,Rural,Comprehensive,0,7,473,2,21:39.2,Poor,No,Daily,House,1150
+976,51,Male,3858,Single,0,PhD,,47.11650807,Urban,Premium,4,17,736,9,21:39.2,Good,Yes,Rarely,House,1035
+977,25,Female,29279,Divorced,4,PhD,Unemployed,9.869596349,Suburban,Basic,2,5,695,3,21:39.2,Good,No,Weekly,Condo,1174
+978,33,Male,2445,Single,2,Master's,Employed,22.61221856,Suburban,Basic,2,8,,5,21:39.3,Poor,Yes,Daily,Condo,939
+979,33,Male,48750,Divorced,0,High School,,13.97911488,Suburban,Basic,2,7,320,1,21:39.2,Average,Yes,Daily,House,371
+980,33,Female,127712,Married,4,PhD,Employed,19.01359261,Rural,Comprehensive,2,0,805,3,21:39.3,Poor,No,Monthly,House,2873
+981,42,Male,44704,Single,,PhD,Unemployed,9.160629,Rural,Premium,0,3,519,3,21:39.2,Poor,Yes,Rarely,House,1398
+982,56,Male,5907,Divorced,3,PhD,Unemployed,41.71182235,Rural,Comprehensive,,9,663,2,21:39.2,Good,Yes,Rarely,Condo,1618
+983,42,Female,32736,Divorced,0,High School,Self-Employed,29.82368265,Urban,Comprehensive,1,9,776,7,21:39.2,Average,No,Rarely,Apartment,902
+984,18,Female,20121,Divorced,2,Bachelor's,,7.849131981,Urban,Premium,0,3,356,8,21:39.1,Poor,No,Rarely,Apartment,1008
+985,63,Male,113584,Married,0,High School,Employed,19.0682522,Urban,Premium,2,19,410,1,21:39.2,Average,Yes,Weekly,Condo,714
+986,60,Female,12110,Single,0,Master's,Employed,44.90880232,Suburban,Comprehensive,,4,336,5,21:39.2,Poor,No,Daily,House,790
+987,38,Female,4981,Divorced,4,Master's,Unemployed,36.47012775,Suburban,Premium,0,18,815,1,21:39.2,Good,No,Monthly,House,365
+988,23,Female,6545,Divorced,2,Master's,Self-Employed,,Rural,Comprehensive,,15,534,9,21:39.1,Average,No,Weekly,Condo,1461
+989,27,Male,17763,Single,,Bachelor's,Unemployed,26.693718,Rural,Premium,0,6,797,8,21:39.2,,No,Daily,Apartment,48
+990,60,Male,3846,Single,1,Bachelor's,Employed,49.88426046,Suburban,Premium,1,13,826,1,21:39.1,Good,Yes,Monthly,Condo,2139
+991,43,Female,24388,Single,3,PhD,,33.67690333,Rural,Comprehensive,0,16,654,9,21:39.2,Average,Yes,Weekly,House,934
+992,57,Male,92580,Single,1,High School,,7.715894442,Rural,Basic,1,16,308,9,21:39.2,,No,Monthly,Apartment,1430
+993,58,Male,7876,Single,2,High School,Employed,27.91439132,Rural,Premium,1,14,616,4,21:39.2,Poor,Yes,Daily,Apartment,557
+994,35,Male,24299,Single,0,Bachelor's,Employed,32.74497266,Rural,Basic,0,12,768,6,21:39.2,Good,No,Weekly,House,1049
+995,42,Male,45638,Single,2,PhD,Employed,50.86530715,Urban,Premium,,12,776,1,21:39.1,Good,No,Rarely,Apartment,1806
+996,64,Female,14094,Married,1,High School,Employed,29.35173879,Urban,Comprehensive,2,16,818,4,21:39.2,Average,Yes,Rarely,House,1116
+997,,Female,80198,Divorced,1,Bachelor's,Self-Employed,29.35942684,Suburban,Basic,2,4,775,4,21:39.2,Good,Yes,Rarely,Apartment,3381
+998,25,Male,16981,Divorced,1,High School,Self-Employed,32.89694098,Suburban,Comprehensive,0,5,673,7,21:39.1,Poor,Yes,Rarely,Condo,718
